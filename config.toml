@@ -1,3 +1,73 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+baseURL = "https://example.com"
+languageCode = "ja-jp"
+defaultContentLanguage = "en"
+title = "東本研究室"
+theme = "cayman-hugo-theme"
+
+# Syntax highlighting
+pygmentsCodefences = true
+pygmentsStyle = "pygments"
+
+[permalinks]
+  post = "/:filename/"
+
+[params]
+  # Header text, can be markdown
+  project_name = "東本研究室（学習工学研究室）"
+  project_tagline = "東京工芸大学工学部工学科情報コース / 東京工芸大学大学院工学研究科電子情報工学専攻"
+
+  # Date format for post list and single pages
+  # For more date formats see https://gohugo.io/functions/format/
+  dateFormat = "2006-01-02"
+
+  # Footer text, can be markdown
+  footer = ""
+
+  # If true, the CSS/JS for Katex math typesetting are enabled
+  katex = true
+
+  # Breakpoints
+  large_breakpoint = "64em"
+  medium_breakpoint = "42em"
+
+  # Header colors
+  header_heading_color = "#fff"
+  header_background_color = "#159957"
+  header_background_color_secondary = "#155799"
+
+  # Text colors
+  section_headings_color = "#159957"
+  body_text_color = "#606c71"
+  body_link_color = "#1e6bb8"
+  blockquote_text_color = "#819198"
+
+  # Code colors
+  code_background_color = "#f3f6fa"
+  code_text_color = "#567482"
+
+  # Border colors
+  border_color = "#dce6f0"
+  table_border_color = "#e9ebec"
+  hr_border_color = "#eff0f1"
+
+[menu]
+  [[menu.nav]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.nav]]
+    name = "指導教員(東本崇仁)"
+    url = "/tomoto/"
+    weight = 2
+  [[menu.nav]]
+    name = "研究内容"
+    url = "/research/"
+    weight = 3
+  [[menu.nav]]
+    name = "構成員"
+    url = "/members/"
+    weight = 4
+  [[menu.nav]]
+    name = "研究業績"
+    url = "/publications/"
+    weight = 5
