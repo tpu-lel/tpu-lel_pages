@@ -2,4 +2,32 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
+  <url>
+    <loc>https://example.com/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/tomoto/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/members/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/research/</loc>
+  </url>
+  
+  <url>
+    <loc>https://example.com/publications/</loc>
+  </url>
+  
 </urlset>

@@ -1,6 +1,6 @@
 baseURL = "https://example.com"
 languageCode = "ja-jp"
-defaultContentLanguage = "en"
+defaultContentLanguage = "ja"
 title = "東本研究室"
 theme = "cayman-hugo-theme"
 
@@ -31,14 +31,18 @@ pygmentsStyle = "pygments"
   medium_breakpoint = "42em"
 
   # Header colors
+  header_logo = "/android-chrome-512x512.png"
+  header_logo_size = "60px"
   header_heading_color = "#fff"
-  header_background_color = "#159957"
-  header_background_color_secondary = "#155799"
+  header_tagline_color = "#fff"
+  header_background_image = "android-chrome-512x512.png"
+  header_background_color = "#4f8af0"
+  header_background_color_secondary = "#c74834"
 
   # Text colors
-  section_headings_color = "#159957"
-  body_text_color = "#606c71"
-  body_link_color = "#1e6bb8"
+  section_headings_color = "#13872d"
+  body_text_color = "#3c4447"
+  body_link_color = "#225c75"
   blockquote_text_color = "#819198"
 
   # Code colors
