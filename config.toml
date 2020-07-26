@@ -60,7 +60,7 @@ pygmentsStyle = "pygments"
     url = "/"
     weight = 1
   [[menu.nav]]
-    name = "指導教員(東本崇仁)"
+    name = "東本 崇仁"
     url = "/tomoto/"
     weight = 2
   [[menu.nav]]
