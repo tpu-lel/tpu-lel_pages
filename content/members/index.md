@@ -9,7 +9,7 @@ title: "構成員"
 - [D1 古池 謙人](https://www.koike.app/)
 
 ### 博士前期課程
-- [M1 相川 野々香](/aikawa/)
+- [M1 相川 野々香](/members/aikawa/)
 - M1 茂木 誠拓
 
 ### 学部
