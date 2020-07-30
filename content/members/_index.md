@@ -10,7 +10,7 @@ title: "構成員"
 
 ### 博士前期課程
 - [M1 相川 野々香](/members/aikawa/)
-- M1 茂木 誠拓
+- [M1 茂木 誠拓](/members/mogi/)
 
 ### 学部
 - B4 奥村天祐
