@@ -187,8 +187,8 @@ title: "研究業績"
 1. 東本崇仁, 平嶋宗, 堀口知也, “仮想実験環境における学習者による仮説設定と仮説に基づく実験評価 (「e-Learningにおける学習支援とコンテンツ開発」および一般),” 先進的学習科学と工学研究会, vol. 41, pp. 37-42, (2004).
 
 ## 全国大会
-1. 相川野々香, 古池謙人, 東本崇仁: Error-based Simulationシステムにおける行詰り解決のための学習履歴を用いた補助問題提示方法の提案, 第22回日本感性工学会大会, to appear, (2020/09)
-1. 古池謙人, 茂木誠拓, 東本崇仁, 堀口知也, 平嶋宗: 振舞いを可視化することによるプログラミング学習支援システムの開発, 第22回日本感性工学会大会, to appear, (2020/09)
+1. 相川野々香, 古池謙人, 東本崇仁: Error-based Simulationシステムにおける行詰り解決のための学習履歴を用いた補助問題提示方法の提案, 第22回日本感性工学会大会, p. [2B06-10-04], (2020/09)
+1. 古池謙人, 茂木誠拓, 東本崇仁, 堀口知也, 平嶋宗: 振舞いを可視化することによるプログラミング学習支援システムの開発, 第22回日本感性工学会大会, p. [2B06-10-05], (2020/09)
 1. 山崎義徳, 東本崇仁: 3次元空間全体の物体を適用対象とした力学Error-based Simulation（EBS）の設計開発, 教育システム情報学会全国大会講演論文集, pp. 133-134, (2020/09)
 1. Aikawa, N., and Tomoto, T.: Development and evaluation of an adaptive auxiliary problem presentation system based on learner’s error tendency in Error-based Simulation, The 34th Annual Conference of the Japanese Society for Artificial Intelligence, p. [1G4-ES-5-04], (2020/06)
 1. Mogi, T., Koike, K., and Tomoto, T.: Evaluation of feedback in a learning environment to improve requirement analysis skills, The 34th Annual Conference of the Japanese Society for Artificial Intelligence, p. [1G4-ES-5-05], (2020/06)
