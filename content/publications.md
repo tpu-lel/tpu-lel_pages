@@ -13,8 +13,8 @@ title: "研究業績"
 1. eラーニング/eテスティング（テスト時の学習者の誤りの可視化の効用），教育工学選書II－１，（ミネルヴァ書房），pp.157-172，2016/06/20
 
 ## 査読付学術論文
-1. 古池謙人, 東本崇仁, 堀口知也, 平嶋宗: プログラミング学習における再利用性を指向した知識組織化のための知的支援: 機能・振舞い・構造の観点に基づく問題解決過程のモデル, 人工知能学会論文誌, Vol. 35, No. 5–C, pp. 1–17, (2020/06)
-1. 相川野々香, 古池謙人, 東本崇仁: Error-based Simulation (EBS)における学習者の誤り傾向に基づく問題の行詰まり解決支援システム, 電子情報通信学会論文誌 D, Accepted, (2020/05)
+1. 古池謙人, 東本崇仁, 堀口知也, 平嶋宗: プログラミング学習における再利用性を指向した知識組織化のための知的支援: 機能・振舞い・構造の観点に基づく問題解決過程のモデル, 人工知能学会論文誌, Vol. 35, No. 5, pp. C-J82_1-17 (2020/06)
+1. 相川野々香, 古池謙人, 東本崇仁: Error-based Simulation (EBS)における学習者の誤り傾向に基づく問題の行詰まり解決支援システム, 電子情報通信学会論文誌 D, Vol. J103-D, No. 9, pp. 644–647 (2020/05)
 1. 古池謙人, 東本崇仁, 堀口知也, 平嶋宗: プログラミングの構造的理解を指向した部品の段階的拡張手法の提案と支援システムの開発・評価, 教育システム情報学会誌, Vol. 36, No. 3, pp. 190–202, (2019/07)
 1. Koike, K., Tsuji, Y., Tomoto, T., Katagami, D., Obo, T., Ogai, Y., Sone, J., and Udagawa, Y.: Academic Emotions Affected by Robot Eye Color: An Investigation of Manipulability and Individual-Adaptability, International Journal of Advanced Computer Science and Applications, Vol. 10, No. 4, pp. 410–418, (2019/05)
 1. Horiguchi, T., Masuda, T., Tomoto, T., and Hirashima, T.: Comparison between behavioral and structural explanation in learning by model-building, Research and Practice in Technology Enhanced Learning, Vol. 14, No. 1, p. 6, (2019/03)
@@ -189,7 +189,7 @@ title: "研究業績"
 ## 全国大会
 1. 相川野々香, 古池謙人, 東本崇仁: Error-based Simulationシステムにおける行詰り解決のための学習履歴を用いた補助問題提示方法の提案, 第22回日本感性工学会大会, to appear, (2020/09)
 1. 古池謙人, 茂木誠拓, 東本崇仁, 堀口知也, 平嶋宗: 振舞いを可視化することによるプログラミング学習支援システムの開発, 第22回日本感性工学会大会, to appear, (2020/09)
-1. 山崎義徳, 東本崇仁: 3次元空間全体の物体を適用対象とした力学Error-based Simulation（EBS）の設計開発, 教育システム情報学会全国大会講演論文集, to appear, (2019/09)
+1. 山崎義徳, 東本崇仁: 3次元空間全体の物体を適用対象とした力学Error-based Simulation（EBS）の設計開発, 教育システム情報学会全国大会講演論文集, pp. 133-134, (2020/09)
 1. Aikawa, N., and Tomoto, T.: Development and evaluation of an adaptive auxiliary problem presentation system based on learner’s error tendency in Error-based Simulation, The 34th Annual Conference of the Japanese Society for Artificial Intelligence, p. [1G4-ES-5-04], (2020/06)
 1. Mogi, T., Koike, K., and Tomoto, T.: Evaluation of feedback in a learning environment to improve requirement analysis skills, The 34th Annual Conference of the Japanese Society for Artificial Intelligence, p. [1G4-ES-5-05], (2020/06)
 1. 齋藤健一, 東本崇仁: 学習環境においてロボットの言語的振る舞いが人に与える印象, 日本感性工学会春季大会, p. [1E-03], (2020/03)
