@@ -3,7 +3,7 @@ title: "東本 崇仁"
 ---
 ## 基本情報
 
-<img src="/images/tomoto.jpg" width="50px">
+<img src="/images/tomoto.jpg" width="30%">
 
 - 名前：東本 崇仁（とうもと たかひと）
 - 所属：東京工芸大学工学部 工学科情報コース / コンピュータ応用学科
