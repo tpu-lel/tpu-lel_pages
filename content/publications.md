@@ -49,7 +49,7 @@ title: "研究業績"
 
 ## 国際会議
 1. Aikawa, N., Koike, K., and Tomoto, T.: Analysis of Learning Activities with Automated Auxiliary Problem Presentation for Breaking Learner Impasses in Physics Error-based Simulations, Workshop proceedings of the International Conference on Computers in Education ICCE 2020, pp. 72–83, (2020/11)
-2. 1. Koike, K., Mogi, T., Tomoto, T., Horiguchi, T., and Hirashima, T.: Compogram: Development and Evaluation of ITS for Organizing Programming-Knowledge by Visualizing Behavior, HCI International 2020 -- Late Breaking Papers: Interaction, Knowledge and Social Media, pp. 151–162, (2020/07)
+2. Koike, K., Mogi, T., Tomoto, T., Horiguchi, T., and Hirashima, T.: Compogram: Development and Evaluation of ITS for Organizing Programming-Knowledge by Visualizing Behavior, HCI International 2020 -- Late Breaking Papers: Interaction, Knowledge and Social Media, pp. 151–162, (2020/07)
 3. Ueno, U., Tomoto, T., Horiguchi, T., and Hirashima, T.: A Support System for Learning Physics in Which Students Identify Errors Using Measurements Displayed by a Measurement Tool, Workshop proceedings of the International Conference on Computers in Education ICCE 2019, pp. 426–434, (2019/12)
 4. Koike, K., Tomoto, T., Horiguchi, T., and Hirashima, T.: Supporting Knowledge Organization for Reuse in Programming: Proposal of a System Based on Function―Behavior―Structure Models, Workshop proceedings of the International Conference on Computers in Education ICCE 2019, pp. 382–392, (2019/12)
 5. T. Obo, D. Takaguchi, D. Katagami, J. Sone, T. Tomoto, Y. Ogai, Y. Udagawa, “Heartbeat Detection Based on Pulse Neuron Model for Heart Rate Variability Analysis,” in 2019 International Joint Conference on Neural Networks (IJCNN), 2019, pp. 1–6.
