@@ -1,33 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
-  
   <url>
-    <loc>https://example.com/categories/</loc>
+    <loc>https://www.takahito.com/categories/</loc>
+  </url><url>
+    <loc>https://www.takahito.com/tags/</loc>
+  </url><url>
+    <loc>https://www.takahito.com/</loc>
+  </url><url>
+    <loc>https://www.takahito.com/awards/</loc>
+  </url><url>
+    <loc>https://www.takahito.com/tomoto/</loc>
+  </url><url>
+    <loc>https://www.takahito.com/members/</loc>
+  </url><url>
+    <loc>https://www.takahito.com/members/aikawa/</loc>
+  </url><url>
+    <loc>https://www.takahito.com/research/</loc>
+  </url><url>
+    <loc>https://www.takahito.com/publications/</loc>
+  </url><url>
+    <loc>https://www.takahito.com/grants/</loc>
+  </url><url>
+    <loc>https://www.takahito.com/members/mogi/</loc>
   </url>
-  
-  <url>
-    <loc>https://example.com/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>https://example.com/</loc>
-  </url>
-  
-  <url>
-    <loc>https://example.com/tomoto/</loc>
-  </url>
-  
-  <url>
-    <loc>https://example.com/members/</loc>
-  </url>
-  
-  <url>
-    <loc>https://example.com/research/</loc>
-  </url>
-  
-  <url>
-    <loc>https://example.com/publications/</loc>
-  </url>
-  
 </urlset>
