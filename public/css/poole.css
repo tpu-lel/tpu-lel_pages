@@ -116,6 +116,13 @@ ul, ol, dl {
   margin-bottom: 1rem;
 }
 
+ol > li {
+  margin-top: 0.5rem;
+  padding: 0.2rem;
+    border-radius: 0.5em;
+  border: solid 2px lightgray;
+}
+
 dt {
   font-weight: bold;
 }
