@@ -29,18 +29,10 @@ profilePicture = "android-chrome-512x512.png"
     url = "/research/"
     weight = 2
   [[menu.main]]
-    name = "外部資金"
-    url = "/grants/"
-    weight = 3
-  [[menu.main]]
     name = "構成員"
     url = "/members/"
     weight = 10
 [[menu.main]]
-    name = "受賞"
-    url = "/awards/"
-    weight = 20
-[[menu.main]]
     name = "研究業績"
     url = "/publications/"
-    weight = 21
+    weight = 20
