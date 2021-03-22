@@ -161,9 +161,9 @@ footer {
 
 @media (min-width: 48em) {
   .content {
-    max-width: 40rem;
+    max-width: 50rem;
     margin-left: 20rem;
-    margin-right: 2rem;
+    margin-right: 3rem;
     margin-bottom: -40px;
     min-height: 100%;
   }
