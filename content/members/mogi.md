@@ -3,7 +3,7 @@ title: "茂木 誠拓"
 ---
 ## 基本情報
 * 名前：茂木 誠拓（もぎ ともひろ）
-* 所属：東京工芸大学大学院 工学研究科（博士前期課程１年）
+* 所属：東京工芸大学大学院 工学研究科（博士前期課程2年）
 
 ## 略歴
 * 2020.03 東京工芸大学 工学部 卒
@@ -11,8 +11,9 @@ title: "茂木 誠拓"
 
 ## 学会活動
 * 2019.06〜 日本感性工学会 学生会員
-* 2020.04〜 日本感性工学会 学生部会「志学の会」 幹部（Web担当）
-* 2020.06〜人工知能学会 学生会員
+* 2020.04〜2021.03 日本感性工学会 学生部会「志学の会」 幹部（Web）
+* 2020.06〜 人工知能学会 学生会員
+* 2021.04〜 日本感性工学会 学生部会「志学の会」 幹部（代表）
 
 ## 教育活動
 * 2019.04〜2020.3 東京工芸大学工学部 SA（コンピュータ基礎，プログラミング基礎）
@@ -20,12 +21,15 @@ title: "茂木 誠拓"
 
 ## 研究業績
 * 国際会議
-  1. Koike, K., Mogi, T., Tomoto, T., Horiguchi, T., and Hirashima, T.: Compogram: Development and Evaluation of ITS for Organizing Programming-Knowledge by Visualizing Behavior, International Conference on Human Interface and the Management of Information, acceptance as a full paper, (2020/07)
+  1. Mogi, T., Koike, K., Tomoto, T., Horiguchi, T., and Hirashima, T.: Proposal of Learning Support System for Improving Skills in Inferring Background Knowledge in Conversation, HCI International 2021, accepted, (2021/07)
+  1. Koike, K., Mogi, T., Tomoto, T., Horiguchi, T., and Hirashima, T.: Compogram: Development and Evaluation of ITS for Organizing Programming-Knowledge by Visualizing Behavior, HCI International 2020 – Late Breaking Papers: Interaction, Knowledge and Social Media, pp. 151–162, (2020/07)
 * 研究会
-  1. 茂木誠拓, 古池謙人, 東本崇仁: 技術仕様書における処理と対象に焦点を当てた文章読解の能力を育成する学習支援環境の検討, 人工知能学会第89回先進的学習科学と工学研究会, pp. 25-28, (2020/07)
-  1. 茂木誠拓, 古池謙人, 東本崇仁: 要求分析能力の獲得支援を指向した学習環境に対するフィードバック機能による効果の検証, 人工知能学会先進的学習科学と工学研究会, Vol. 88, pp. 61–64, (2020/03)
-  1. 茂木誠拓, 古池謙人, 東本崇仁: 要求分析における処理の明確化を指向した学習環境における学びの検証と行き詰まり箇所の考察, 人工知能学会先進的学習科学と工学研究会, Vol. 87, pp. 1–6, (2019/11)
-  1. 茂木誠拓, 古池謙人, 東本崇仁, “システム開発における要求具体化タスクと支援環境の提案,” 人工知能学会先進的学習科学と工学研究会, vol. 86, pp. 89–92, (2019/07)
+  1. 茂木誠拓, 古池謙人, 東本崇仁, 堀口知也, 平嶋宗: すれ違い解消スキル育成を指向した学習支援システムの提案, 人工知能学会第91回先進的学習科学と工学研究会, pp. 99-104, (2021/03)
+  1. 茂木誠拓, 古池謙人, 東本崇仁, 堀口知也, 平嶋宗: すれ違いの解消に向けた背景知識の推論能力を育成する学習支援システムの提案, JSiSE学生研究発表会, pp. 85-86, (2021/03)
+  3. 茂木誠拓, 古池謙人, 東本崇仁: 技術仕様書における処理と対象に焦点を当てた文章読解の能力を育成する学習支援環境の検討, 人工知能学会第89回先進的学習科学と工学研究会, pp. 25-28, (2020/07)
+  4. 茂木誠拓, 古池謙人, 東本崇仁: 要求分析能力の獲得支援を指向した学習環境に対するフィードバック機能による効果の検証, 人工知能学会先進的学習科学と工学研究会, Vol. 88, pp. 61–64, (2020/03)
+  5. 茂木誠拓, 古池謙人, 東本崇仁: 要求分析における処理の明確化を指向した学習環境における学びの検証と行き詰まり箇所の考察, 人工知能学会先進的学習科学と工学研究会, Vol. 87, pp. 1–6, (2019/11)
+  6. 茂木誠拓, 古池謙人, 東本崇仁, “システム開発における要求具体化タスクと支援環境の提案,” 人工知能学会先進的学習科学と工学研究会, vol. 86, pp. 89–92, (2019/07)
 * 全国大会
   1. 古池謙人, 茂木誠拓, 東本崇仁, 堀口知也, 平嶋宗: 振舞いを可視化することによるプログラミング学習支援システムの開発, 第22回日本感性工学会大会, to appear, (2020/09)
   1. Mogi, T., Koike, K., and Tomoto, T.: Evaluation of feedback in a learning environment to improve requirement analysis skills, The 34th Annual Conference of the Japanese Society for Artificial Intelligence, p. [1G4-ES-5-05], (2020/06)
