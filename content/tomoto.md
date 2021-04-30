@@ -34,8 +34,6 @@ sub e-Mail: toumotan☆yahoo.co.jp
 - 人工知能学会正会員
 - 教育システム情報学会正会員
 - 日本教育工学会正会員
-- 情報処理学会正会員
-- 教育システム情報学会 社員
 - 人工知能学会 ALST研究会専門委員
 
 ## これまで従事してきた研究
@@ -48,27 +46,34 @@ sub e-Mail: toumotan☆yahoo.co.jp
 
 ## 学会活動
 ### 国外における活動
-* 2012年 9月 1 日～ International Conference on Human-Computer Interaction Parallel Session Organizer ～ 現在に至る
-* 2013年 5月 1 日～ International Conference on Computers in Education, Workshop on Modeling, Management and Generation of Problems/Questions in Technology-Enhanced Learning ワークショッププログラム委員 ～ 現在に至る
-* 2020年 4月 1 日～ The Asia-Pacific Society for Computers in Education Co-chair of SIG on Educational Use of Problems/Questions in Technology-Enhanced Learning ～ 現在に至る
+* 2012年 9月 1日～ International Conference on Human-Computer Interaction Parallel Session Organizer ～ 現在に至る
+* 2013年 5月 1日～ International Conference on Computers in Education, Workshop on Modeling, Management and Generation of Problems/Questions in Technology-Enhanced Learning ワークショッププログラム委員 ～ 現在に至る
+* 2020年 4月 1日～ The Asia-Pacific Society for Computers in Education Co-chair of SIG on Educational Use of Problems/Questions in Technology-Enhanced Learning ～ 現在に至る
 
 ### 国内における活動（幹事等）
-* 2011年 9月 1 日～ 教育システム情報学会 学会誌編集委員 幹事 ～ 2015年8月31日
-* 2013年 3月 1 日～ 電子情報通信学会 教育工学専門委員会 幹事補佐 ～ 2015年3月31日
-* 2013年 7月 1 日～ 教育システム情報学会 特集号編集委員 幹事 ～ 2015年8月31日
-* 2015年 4月 1 日～ 人工知能学会 先進的学習科学と工学研究会 幹事 ～ 2019年3月31日
-* 2016年 6月 1 日～ 電子情報通信学会 教育工学専門委員会 幹事 ～ 2018年3月31日
-* 2019年 9月 1日～ 人工知能学会全国大会 プログラム委員長補佐 ～ 現在に至る
+* 2011年 9月 1日～ 教育システム情報学会 学会誌編集委員 幹事 ～ 2015年8月31日
+* 2013年 3月 1日～ 電子情報通信学会 教育工学専門委員会 幹事補佐 ～ 2015年3月31日
+* 2013年 7月 1日～ 教育システム情報学会 特集号編集委員 幹事 ～ 2015年8月31日
+* 2015年 4月 1日～ 人工知能学会 先進的学習科学と工学研究会 幹事 ～ 2019年3月31日
+* 2015年 4月 1日～ 教育システム情報学会 社員 ～ 2019年3月31日
+* 2015年 9月 1日〜 電子情報通信学会 教育工学専門委員会 専門委員 〜 現在に至る
+* 2016年 6月 1日～ 電子情報通信学会 教育工学専門委員会 幹事 ～ 2018年3月31日
+* 2017年 7月 1日〜 教育システム情報学会 産学連携委員会 幹事 〜 現在に至る
+* 2017年 7月 1日〜 教育システム情報学会 広報委員会 委員 〜 現在に至る
+* 2019年 9月 1日～ 人工知能学会全国大会 プログラム委員長補佐 ～ 2020年8月31日
+* 2019年 9月 1日～ 人工知能学会全国大会 セッション支援担当 〜 現在に至る
+* 2020年 11月 1日〜 教育システム情報学会全国大会 プログラム担当委員 〜 現在に至る
+* 2020年 9月 1日～ 人工知能学会全国大会 編集委員連絡担当 〜 現在に至る
 
 ### 国内における活動（編集委員）
-* 2011年 9月 1 日～ 教育システム情報学会 学会誌編集委員 ～2015年8月31日
-* 2012年 3月 1 日～ 情報処理学会 学会誌編集委員 ～2016年3月31日
-* 2013年 3月 1 日～ 電子情報通信学会 教育工学専門委員会専門委員 ～ 2015年3月31日
-* 2013年 7月 1 日～ 教育システム情報学会 特集号編集委員 ～2015年8月31日
-* 2014年 1月 1 日～ 電子情報通信学会 特集号編集委員 ～ 2015年3月31日
+* 2011年 9月 1日～ 教育システム情報学会 学会誌編集委員 ～2015年8月31日
+* 2012年 3月 1日～ 情報処理学会 学会誌編集委員 ～2016年3月31日
+* 2013年 3月 1日～ 電子情報通信学会 教育工学専門委員会専門委員 ～ 2015年3月31日
+* 2013年 7月 1日～ 教育システム情報学会 特集号編集委員 ～2015年8月31日
+* 2014年 1月 1日～ 電子情報通信学会 特集号編集委員 ～ 2015年3月31日
 * 2015年 4月 1日～ 電子情報通信学会 ISSソサエティ誌編集委員 ～2017年3月31日
-* 2015年 4月 1日～ 教育システム情報学会 社員 ～ 現在に至る
 * 2020年 6月 19日～ 人工知能学会 論文誌編集委員～ 現在に至る
+* 2020年 11月 1日〜 ITEL (Information and Technology in Education and Learning) 編集委員 〜現在に至る
 
 ## 社会における活動
 ### 新聞掲載
@@ -91,6 +96,7 @@ sub e-Mail: toumotan☆yahoo.co.jp
 * 2012年 Error-based Simulation利用，轟町中学校1年生，4クラス（147名），1時限
 * 2012年 Error-based Simulation利用，轟町中学校3年生，4クラス（135名），1時限
 * 2016年9月 Error-based Simulation利用，千葉市立花園中学校3年生，9クラス（約300名），2時限
+* 2020年12月22日 〜 2020年12月24日 Error-based Simulation利用，千葉市立さつきが丘中学校，3年生3クラス（計67名），各2時限
 
 ## 博士論文
 * 東本崇仁, “ICTを用いた教材のインタラクティブ化(ヒューマンインタフェース・教育支援,&lt;特集>人工知能分野における博士論文),” 人工知能学会誌, vol. 25, no. 1, p. 159, (2010).
