@@ -13,8 +13,10 @@ title: "相川 野々香"
 ### 査読付学術論文
 1. 相川野々香, 古池謙人, 東本崇仁: Error-based Simulation (EBS)における学習者の誤り傾向に基づく問題の行詰まり解決支援システム, 電子情報通信学会論文誌 D, Vol. J103-D, No. 9, pp. 644–647, (2020/05)
 ### 国際会議
+1. Aikawa, N., Koike, K., Tomoto, T., Horiguchi, T., and Hirashima, T.: Characterization of Auxiliary Problems for Automated Generation in Error-based Simulation, HCI International 2021. Lecture Notes in Computer Science, vol 12766., pp. 3–13, (2021/07)
 1. Aikawa, N., Koike, K., and Tomoto, T.: Analysis of Learning Activities with Automated Auxiliary Problem Presentation for Breaking Learner Impasses in Physics Error-based Simulations, Workshop proceedings of the International Conference on Computers in Education ICCE 2020, pp. 72–83, (2020/11)
 ### 研究会
+1. 相川野々香, 古池謙人, 東本崇仁, 堀口知也, 平嶋宗: Error-based Simulationを対象にした因果推論理論に基づく自動的な補助問題生成法の検討, 人工知能学会第92回先進的学習科学と工学研究会, pp. 6–11, (2021/07)
 1. 相川野々香, 古池謙人, 東本崇仁, 堀口知也, 平嶋宗: Error-based Simulationにおける自動的な補助問題生成法の提案, 人工知能学会第91回先進的学習科学と工学研究会, pp. 105–110, (2021/03)
 1. 相川野々香, 古池謙人, 東本崇仁: 行詰り解決を指向したError-based Simulationシステムの補助問題提示機能による学習活動の分析, 人工知能学会第89回先進的学習科学と工学研究会, pp. 17-20, (2020/07)
 1. 相川野々香, 東本崇仁: Error-based Simulationにおける学習者の誤り傾向に基づく適応的な補助問題提示システムの開発と評価, 人工知能学会先進的学習科学と工学研究会, Vol. 88, pp. 97–102, (2020/03)
