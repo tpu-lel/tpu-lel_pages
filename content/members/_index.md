@@ -12,7 +12,7 @@ title: "構成員"
 - [M2 相川 野々香](/members/aikawa/)
 - [M2 茂木 誠拓](/members/mogi/)
 - M1 座間出実
-- M1 前田新太郎
+- [M1 前田 新太郎](/members/maeda/)
 - M1 山崎義徳
 
 ### 学部
