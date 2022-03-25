@@ -51,8 +51,8 @@ title: "相川 野々香"
 1. 相川野々香, 古池謙人, 東本崇仁: Error-based Simulationシステムにおける行詰り解決のための学習履歴を用いた補助問題提示方法の提案, 第22回日本感性工学会大会, p. [2B06-10-04], (2020/09)
 1. Aikawa, N., and Tomoto, T.: Development and evaluation of an adaptive auxiliary problem presentation system based on learner’s error tendency in Error-based Simulation, The 34th Annual Conference of the Japanese Society for Artificial Intelligence, p. [1G4-ES-5-04], (2020/06)
 ### その他
-1. 相川野々香: 自律的な学習を支援する補助問題の自動生成システム, ラーニングイノベーショングランプリ2021 (2021/08)
-2. 相川野々香: EBSとマイクロワールドグラフによる問題の行き詰まり解決支援システム, リサーチ・コ・コ・コモンズ (2019/11)
+1. 相川野々香: 自律的な学習を支援する補助問題の自動生成システム, ラーニングイノベーショングランプリ2021, (2021/08)
+2. 相川野々香: EBSとマイクロワールドグラフによる問題の行き詰まり解決支援システム, リサーチ・コ・コ・コモンズ, (2019/11)
 
 ## 実践利用
 1. 2021年12月9日 〜 2021年12月14日 Error-based Simulation利用，千葉市立さつきが丘中学校，3年生3クラス（約90名），各3時限
