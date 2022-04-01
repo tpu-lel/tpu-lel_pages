@@ -428,3 +428,20 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
 }
+
+
+.content h3 {
+  margin-left: 1rem;
+}
+
+.content h4,h5,h6 {
+  margin-left: 1.25rem;
+}
+
+.content p {
+  margin-left: 2rem;
+}
+
+.content ul,ol,dl {
+  margin-left: 2rem;
+}
