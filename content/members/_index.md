@@ -21,7 +21,7 @@ title: "構成員"
 - M2 山崎 義徳
 - [M1 荻田 将徳](/members/ogita/)
 - M1 十文字 智人
-- M1 松爲 泰生
+- [M1 松爲 泰生](/members/matsui/)
 
 ### 学部
 
