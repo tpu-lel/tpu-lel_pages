@@ -19,7 +19,7 @@ title: "構成員"
 - [M2 座間 出実](/members/zama/)
 - [M2 前田 新太郎](/members/maeda/)
 - M2 山崎 義徳
-- M1 荻田 将徳
+- [M1 荻田 将徳](/members/ogita/)
 - M1 十文字 智人
 - M1 松爲 泰生
 
