@@ -36,7 +36,7 @@ title: "相川 野々香"
 ### 査読付学術論文
 1. 相川野々香, 古池謙人, 東本崇仁: Error-based Simulation (EBS)における学習者の誤り傾向に基づく問題の行詰まり解決支援システム, 電子情報通信学会論文誌 D, Vol. J103-D, No. 9, pp. 644–647, (2020/05)
 ### 国際会議
-1. Aikawa, N., Koike, K., Tomoto, T., Horiguchi, T., and Hirashima, T.: Automatic Generation Rules for Auxiliary Problems Based on Causal Relationships for Force in a Mechanics Learning Support System, HCI International 2022. Lecture Notes in Computer Science, in press, Springer, (2022)
+1. Aikawa, N., Koike, K., Tomoto, T., Horiguchi, T., and Hirashima, T.: Automatic Generation Rules for Auxiliary Problems Based on Causal Relationships for Force in a Mechanics Learning Support System, HCI International 2022. Lecture Notes in Computer Science, vol 13305., pp. 437–450, Springer, (2022/06)
 2. Aikawa, N., Koike, K., Tomoto, T., Horiguchi, T., and Hirashima, T.: Characterization of Auxiliary Problems for Automated Generation in Error-based Simulation, HCI International 2021. Lecture Notes in Computer Science, vol 12766., pp. 3–13, Springer, (2021/07)
 3. Aikawa, N., Koike, K., and Tomoto, T.: Analysis of Learning Activities with Automated Auxiliary Problem Presentation for Breaking Learner Impasses in Physics Error-based Simulations, Workshop proceedings of the International Conference on Computers in Education ICCE 2020, pp. 72–83, (2020/11)
 ### 研究会
