@@ -17,7 +17,7 @@ title: "構成員"
 ### 博士前期課程
 
 - [M2 座間 出実](/members/zama/)
-- [M2 前田 新太郎](/members/maeda/)
+- [M2 前田 新太郎](https://shintaro.maeda.app/)
 - M2 山崎 義徳
 - [M1 荻田 将徳](/members/ogita/)
 - M1 十文字 智人
