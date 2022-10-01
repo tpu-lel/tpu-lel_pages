@@ -1,4 +1,12 @@
 {{ define "main" }}
 <h1>{{ .Title }}</h1>
-{{ .Content }}
+{{ $cols := split .RawContent "||" }}
+
+<div class="content-columns">
+{{ range $cols }}
+<div class="column">
+	{{ . | markdownify }}
+</div>
+{{ end }}
+</div>
 {{ end }}
