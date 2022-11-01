@@ -29,24 +29,35 @@ title: "相川 野々香"
 - 2020.04〜2021.03 東京工芸大学工学部 TA（アルゴリズムとデータ構造，CAD，情報技術入門）
 - 2020.09〜2022.03 東京工芸大学工学部 学生アドバイザー
 - 2021.04〜2022.03 東京工芸大学工学部 TA（CG入門，Cプログラミング）
-- 2022.04〜2023.03 東京工芸大学工学部 TA（音声メディア処理，統計処理）<!-- JAVAプログラミング，情報工学演習，アルゴリズムとデータ構造，プログラミング基礎 -->
+- 2022.04〜2023.03 東京工芸大学工学部 TA（音声メディア処理，統計処理，JAVAプログラミング，情報工学演習，アルゴリズムとデータ構造，プログラミング基礎）<!-- 後期：JAVAプログラミング，情報工学演習，アルゴリズムとデータ構造，プログラミング基礎 -->
 - 2022.04〜 東京工芸大学工学部 ピア・サポーター
+
+
+<!-- ## 奨学金
+- 2022 日本学生支援機構 特に優れた業績による返還免除（*1の全額）
+- 2022.07 東京工芸大学工学部同窓会奨学金（給付）
+- 2022.04 - 現在  日本学生支援機構 第一種奨学金（無利子）
+- 2020.04 - 2022.03 日本学生支援機構 第一種奨学金（無利子）(*1) -->
 
 
 ## 研究業績
 
 ### 受賞<!-- awards -->
-1. 2021年度 人工知能学会 先進的学習科学と工学研究会（ALST） 若手奨励賞, (2022/04) (相川野々香, 古池謙人, 東本崇仁, 堀口知也, 平嶋宗: Error-based Simulationを対象にした因果推論理論に基づく自動的な補助問題生成法の検討, 人工知能学会第92回先進的学習科学と工学研究会, pp. 6–11, (2021/07))
-2. 2021年度 東京工芸大学 杉浦六右衛門賞 受賞, (2022/03)
-3. 2021年度 JSiSE学生研究発表会 支部長賞 受賞, (2022/03) (相川野々香, 前田新太郎, 茂木誠拓, 古池謙人, 東本崇仁, 今井功, 堀口知也, 平嶋宗: Error-based Simulationにおける学習者の誤り箇所に適応的な補助問題提示システムの中学校での授業実践, 2021年度JSiSE学生研究発表会, pp. 67–68, (2022/03))
+1. 第33回教育・学習支援システム若手の会 優秀奨励賞, (2022/10/22)
+2. 2021年度 人工知能学会 先進的学習科学と工学研究会（ALST） 若手奨励賞, (2022/04) (相川野々香, 古池謙人, 東本崇仁, 堀口知也, 平嶋宗: Error-based Simulationを対象にした因果推論理論に基づく自動的な補助問題生成法の検討, 人工知能学会第92回先進的学習科学と工学研究会, pp. 6–11, (2021/07))
+3. 2021年度 東京工芸大学 杉浦六右衛門賞 受賞, (2022/03)
+4. 2021年度 JSiSE学生研究発表会 支部長賞 受賞, (2022/03) (相川野々香, 前田新太郎, 茂木誠拓, 古池謙人, 東本崇仁, 今井功, 堀口知也, 平嶋宗: Error-based Simulationにおける学習者の誤り箇所に適応的な補助問題提示システムの中学校での授業実践, 2021年度JSiSE学生研究発表会, pp. 67–68, (2022/03))
 
 ### 査読付学術論文
-1. 相川野々香, 古池謙人, 東本崇仁: Error-based Simulation (EBS)における学習者の誤り傾向に基づく問題の行詰まり解決支援システム, 電子情報通信学会論文誌 D, Vol. J103-D, No. 9, pp. 644–647, (2020/05)
+1. 相川野々香, 古池謙人, 東本崇仁, 堀口知也, 平嶋宗: 力学を対象としたError-based Simulationにおける行き詰まりの解消を指向した補助問題の適応的な提示システム, 電子情報通信学会論文誌 D, Vol. J106-D, No. 2, in press, (2023)
+2. 相川野々香, 齊藤寛, 古池謙人, 東本崇仁: 力学における学習者の誤りに基づいた問題提示（Error-based Problem Posing）システムの開発, 電子情報通信学会論文誌 D, Vol. J106-D, No. 2, in press, (2023)
+3. 相川野々香, 古池謙人, 東本崇仁: Error-based Simulation (EBS)における学習者の誤り傾向に基づく問題の行詰まり解決支援システム, 電子情報通信学会論文誌 D, Vol. J103-D, No. 9, pp. 644–647, (2020/05)
 
 ### 国際会議
-1. Aikawa, N., Koike, K., Tomoto, T., Horiguchi, T., and Hirashima, T.: Automatic Generation Rules for Auxiliary Problems Based on Causal Relationships for Force in a Mechanics Learning Support System, HCI International 2022. Lecture Notes in Computer Science, vol 13305., pp. 437–450, Springer, (2022/06)
-2. Aikawa, N., Koike, K., Tomoto, T., Horiguchi, T., and Hirashima, T.: Characterization of Auxiliary Problems for Automated Generation in Error-based Simulation, HCI International 2021. Lecture Notes in Computer Science, vol 12766., pp. 3–13, Springer, (2021/07)
-3. Aikawa, N., Koike, K., and Tomoto, T.: Analysis of Learning Activities with Automated Auxiliary Problem Presentation for Breaking Learner Impasses in Physics Error-based Simulations, Workshop proceedings of the International Conference on Computers in Education ICCE 2020, pp. 72–83, (2020/11)
+1. Aikawa, N., Maeda, S., Mogi, T., Koike, K., Tomoto, T., Imai, I., Horiguchi, T., and Hirashima, T.: Practical Use of an Error-based Problem Presentation System in Mechanics, Proceedings of the 30th International Conference on Computers in Education, in press, (2022)<!-- 雑誌名の部分は未精査 -->
+2. Aikawa, N., Koike, K., Tomoto, T., Horiguchi, T., and Hirashima, T.: Automatic Generation Rules for Auxiliary Problems Based on Causal Relationships for Force in a Mechanics Learning Support System, HCI International 2022. Lecture Notes in Computer Science, vol 13305., pp. 437–450, Springer, (2022/06)
+3. Aikawa, N., Koike, K., Tomoto, T., Horiguchi, T., and Hirashima, T.: Characterization of Auxiliary Problems for Automated Generation in Error-based Simulation, HCI International 2021. Lecture Notes in Computer Science, vol 12766., pp. 3–13, Springer, (2021/07)
+4. Aikawa, N., Koike, K., and Tomoto, T.: Analysis of Learning Activities with Automated Auxiliary Problem Presentation for Breaking Learner Impasses in Physics Error-based Simulations, Workshop proceedings of the International Conference on Computers in Education ICCE 2020, pp. 72–83, (2020/11)
 
 ### 研究会
 1. 十文字智人, 相川野々香, 東本崇仁: ロバストシミュレータのヒューリスティクスを用いたベクトルを対象とした2種類の誤り可視化の分析と再設計, 人工知能学会第95回先進的学習科学と工学研究会, pp. 15–19, (2022/07)
