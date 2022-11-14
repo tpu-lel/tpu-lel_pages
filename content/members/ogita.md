@@ -27,6 +27,10 @@ title: "荻田 将徳"
 3. 荻田将徳, 相川野々香, 古池謙人, 東本崇仁: 物理を題材としたTeachable Agent Modeling for Error-visualizationにおける制約の提案, 第24回日本感性工学会大会, p. [1D-1-07], (2022/08)
 4. 荻田将徳, 前田新太郎, 相川野々香, 古池謙人, 東本崇仁: 物理における制約の理解を指向したTeachable Agent Modeling for Error-visualizationによる学習手法の提案, 教育システム情報学会全国大会講演論文集, pp. 171–172, (2022/08)
 
+### 全国大会
+1. 荻田将徳, 相川野々香, 古池謙人, 東本崇仁: 物理を題材としたTeachable Agent Modeling for Error-visualizationにおける制約の提案, 第24回日本感性工学会大会, p. [1D-1-07], (2022/08)
+2. 荻田将徳, 前田新太郎, 相川野々香, 古池謙人, 東本崇仁: 物理における制約の理解を指向したTeachable Agent Modeling for Error-visualizationによる学習手法の提案, 教育システム情報学会全国大会講演論文集, pp. 171–172, (2022/08)
+
 ## 資格
 
 - 学士（工学）
