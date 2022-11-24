@@ -17,7 +17,7 @@ title: "研究業績"
 
 ## 査読付学術論文
 1. 古池謙人, 樋村いづみ, 東本崇仁: TAME: 誤りの可視化を重視したTeachable Agentの挙動制御手法, 電子情報通信学会論文誌 D, Vol. J106-D, No. 2, in press, (2023/02)
-2. 相川野々香, 古池謙人, 東本崇仁, 堀口知也, 平嶋宗: 力学を対象としたError-based Simulationにおける行き詰まりの解消を指向した補助問題の適応的な提示システム, 電子情報通信学会論文誌 D, Vol. J106-D, No. 2, in press, (2023/02)
+2. 相川野々香, 古池謙人, 東本崇仁, 堀口知也, 平嶋宗: 力学を対象としたError-based Simulationにおける行き詰まりの解消を指向した補助問題の提示システム, 電子情報通信学会論文誌 D, Vol. J106-D, No. 2, in press, (2023/02)
 3. 相川野々香, 齊藤寛, 古池謙人, 東本崇仁: 力学における学習者の誤りに基づいた問題提示（Error-based Problem Posing）システムの開発, 電子情報通信学会論文誌 D, Vol. J106-D, No. 2, in press, (2023/02)
 4. Kitamura, M., Yamaguchi, T., Takeshita, T., and Tomoto, T.: Development of Server System Construction Training System, JISSJ Journal of the Information Systems Society of Japan, Vol. 17, No. 2, pp. 1–18, (2022/03)
 5. 古池謙人, 久世泰成, 東本崇仁: Error-based Simulationと概念マップを用いたメタ認知駆動学習を促すシステムの開発と評価, 電子情報通信学会論文誌 D, Vol. J104-D, No. 6, pp. 526-528, (2021/02)
