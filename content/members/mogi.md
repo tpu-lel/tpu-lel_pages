@@ -22,20 +22,22 @@ title: "茂木 誠拓"
 * 2019.04〜2020.3 東京工芸大学工学部 学生アドバイザー
 
 ## 研究業績
+* 原著論文
+  1. 前田新太郎, 茂木誠拓, 古池謙人, 東本崇仁: 仮想ロボットプログラミングを用いたコード共有プラットフォームの開発と評価, 教育システム情報学会誌, Vol. 40, No. 3, in press, (2023/07)
 * 国際会議
   1. Mogi, T., Koike, K., Tomoto, T., Horiguchi, T., and Hirashima, T.: Proposal of Learning Support System for Improving Skills in Inferring Background Knowledge in Conversation, HCI International 2021, accepted, (2021/07)
-  1. Koike, K., Mogi, T., Tomoto, T., Horiguchi, T., and Hirashima, T.: Compogram: Development and Evaluation of ITS for Organizing Programming-Knowledge by Visualizing Behavior, HCI International 2020 – Late Breaking Papers: Interaction, Knowledge and Social Media, pp. 151–162, (2020/07)
+  2. Koike, K., Mogi, T., Tomoto, T., Horiguchi, T., and Hirashima, T.: Compogram: Development and Evaluation of ITS for Organizing Programming-Knowledge by Visualizing Behavior, HCI International 2020 – Late Breaking Papers: Interaction, Knowledge and Social Media, pp. 151–162, (2020/07)
 * 研究会
   1. 茂木誠拓, 古池謙人, 東本崇仁, 堀口知也, 平嶋宗: すれ違い解消スキル育成を指向した学習支援システムの提案, 人工知能学会第91回先進的学習科学と工学研究会, pp. 99-104, (2021/03)
-  1. 茂木誠拓, 古池謙人, 東本崇仁, 堀口知也, 平嶋宗: すれ違いの解消に向けた背景知識の推論能力を育成する学習支援システムの提案, JSiSE学生研究発表会, pp. 85-86, (2021/03)
+  2. 茂木誠拓, 古池謙人, 東本崇仁, 堀口知也, 平嶋宗: すれ違いの解消に向けた背景知識の推論能力を育成する学習支援システムの提案, JSiSE学生研究発表会, pp. 85-86, (2021/03)
   3. 茂木誠拓, 古池謙人, 東本崇仁: 技術仕様書における処理と対象に焦点を当てた文章読解の能力を育成する学習支援環境の検討, 人工知能学会第89回先進的学習科学と工学研究会, pp. 25-28, (2020/07)
   4. 茂木誠拓, 古池謙人, 東本崇仁: 要求分析能力の獲得支援を指向した学習環境に対するフィードバック機能による効果の検証, 人工知能学会先進的学習科学と工学研究会, Vol. 88, pp. 61–64, (2020/03)
   5. 茂木誠拓, 古池謙人, 東本崇仁: 要求分析における処理の明確化を指向した学習環境における学びの検証と行き詰まり箇所の考察, 人工知能学会先進的学習科学と工学研究会, Vol. 87, pp. 1–6, (2019/11)
   6. 茂木誠拓, 古池謙人, 東本崇仁, “システム開発における要求具体化タスクと支援環境の提案,” 人工知能学会先進的学習科学と工学研究会, vol. 86, pp. 89–92, (2019/07)
 * 全国大会
   1. 古池謙人, 茂木誠拓, 東本崇仁, 堀口知也, 平嶋宗: 振舞いを可視化することによるプログラミング学習支援システムの開発, 第22回日本感性工学会大会, to appear, (2020/09)
-  1. Mogi, T., Koike, K., and Tomoto, T.: Evaluation of feedback in a learning environment to improve requirement analysis skills, The 34th Annual Conference of the Japanese Society for Artificial Intelligence, p. [1G4-ES-5-05], (2020/06)
-  1. 茂木誠拓, 古池謙人, 東本崇仁: システム開発における要求具体化スキル獲得支援環境の構築, 教育システム情報学会全国大会講演論文集, pp. 99–100, (2019/09)
+  2. Mogi, T., Koike, K., and Tomoto, T.: Evaluation of feedback in a learning environment to improve requirement analysis skills, The 34th Annual Conference of the Japanese Society for Artificial Intelligence, p. [1G4-ES-5-05], (2020/06)
+  3. 茂木誠拓, 古池謙人, 東本崇仁: システム開発における要求具体化スキル獲得支援環境の構築, 教育システム情報学会全国大会講演論文集, pp. 99–100, (2019/09)
 
 ## 資格
 * 学士（工学）
