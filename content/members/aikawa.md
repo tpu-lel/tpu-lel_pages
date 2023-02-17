@@ -49,13 +49,13 @@ title: "相川 野々香"
 4. 2021年度 東京工芸大学 杉浦六右衛門賞 受賞, (2022/03)
 5. 2021年度 JSiSE学生研究発表会 支部長賞 受賞, (2022/03) (相川野々香, 前田新太郎, 茂木誠拓, 古池謙人, 東本崇仁, 今井功, 堀口知也, 平嶋宗: Error-based Simulationにおける学習者の誤り箇所に適応的な補助問題提示システムの中学校での授業実践, 2021年度JSiSE学生研究発表会, pp. 67–68, (2022/03))
 
-### 査読付学術論文
-1. 相川野々香, 古池謙人, 東本崇仁, 堀口知也, 平嶋宗: 力学を対象としたError-based Simulationにおける行き詰まりの解消を指向した補助問題の提示システム, 電子情報通信学会論文誌 D, Vol. J106-D, No. 2, in press, (2023)
-2. 相川野々香, 齊藤寛, 古池謙人, 東本崇仁: 力学における学習者の誤りに基づいた問題提示（Error-based Problem Posing）システムの開発, 電子情報通信学会論文誌 D, Vol. J106-D, No. 2, in press, (2023)
+### 査読付学術論文<!-- Journal papers -->
+1. 相川野々香, 古池謙人, 東本崇仁, 堀口知也, 平嶋宗: 力学を対象としたError-based Simulationにおける行き詰まりの解消を指向した補助問題の提示システム, 電子情報通信学会論文誌 D, Vol. J106-D, No. 2, pp. 132-143, (2023/02)
+2. 相川野々香, 齊藤寛, 古池謙人, 東本崇仁: 力学における学習者の誤りに基づいた問題提示（Error-based Problem Posing）システムの開発, 電子情報通信学会論文誌 D, Vol. J106-D, No. 2, pp. 144-155, (2023/02)
 3. 相川野々香, 古池謙人, 東本崇仁: Error-based Simulation (EBS)における学習者の誤り傾向に基づく問題の行詰まり解決支援システム, 電子情報通信学会論文誌 D, Vol. J103-D, No. 9, pp. 644–647, (2020/05)
 
-### 国際会議
-1. Aikawa, N., Maeda, S., Mogi, T., Koike, K., Tomoto, T., Imai, I., Horiguchi, T., and Hirashima, T.: Practical Use of an Error-based Problem Presentation System in Mechanics, Proceedings of the 30th International Conference on Computers in Education ICCE 2022, pp. 118–123, (2022)<!-- 雑誌名の部分は未精査 -->
+### 国際会議<!-- International Conference -->
+1. Aikawa, N., Maeda, S., Mogi, T., Koike, K., Tomoto, T., Imai, I., Horiguchi, T., and Hirashima, T.: Practical Use of an Error-based Problem Presentation System in Mechanics, Proceedings of the 30th International Conference on Computers in Education ICCE 2022, pp. 118–123, (2022/12)<!-- 雑誌名の部分は未精査 -->
 2. Aikawa, N., Koike, K., Tomoto, T., Horiguchi, T., and Hirashima, T.: Automatic Generation Rules for Auxiliary Problems Based on Causal Relationships for Force in a Mechanics Learning Support System, HCI International 2022. Lecture Notes in Computer Science, vol 13305., pp. 437–450, Springer, (2022/06)
 3. Aikawa, N., Koike, K., Tomoto, T., Horiguchi, T., and Hirashima, T.: Characterization of Auxiliary Problems for Automated Generation in Error-based Simulation, HCI International 2021. Lecture Notes in Computer Science, vol 12766., pp. 3–13, Springer, (2021/07)
 4. Aikawa, N., Koike, K., and Tomoto, T.: Analysis of Learning Activities with Automated Auxiliary Problem Presentation for Breaking Learner Impasses in Physics Error-based Simulations, Workshop proceedings of the International Conference on Computers in Education ICCE 2020, pp. 72–83, (2020/11)
