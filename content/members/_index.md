@@ -16,8 +16,8 @@ title: "構成員"
 
 - M2 山崎 義徳
 - [M2 荻田 将徳](/members/ogita/)
-- M1 十文字 智人
-- [M1 松爲 泰生](/members/matsui/)
+- M2 十文字 智人
+- [M2 松爲 泰生](/members/matsui/)
 - M1 中村 裕希人
 - M1 白髭 虹輝
 
