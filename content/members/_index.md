@@ -18,7 +18,7 @@ title: "構成員"
 - [M2 荻田 将徳](/members/ogita/)
 - M2 十文字 智人
 - [M2 松爲 泰生](/members/matsui/)
-- M1 中村 裕希人
+- [M1 中村 祐希人](/members/nakamura/)
 - [M1 白髭 虹輝](/members/shirahige/)
 
 ## 学部
