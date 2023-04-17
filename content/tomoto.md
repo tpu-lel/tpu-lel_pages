@@ -8,19 +8,20 @@ title: "東本 崇仁"
 
 名前：東本 崇仁（とうもと たかひと）
 
-所属：[東京工芸大学工学部 工学科情報コース](https://www.t-kougei.ac.jp/)
+所属：[千葉工業大学 情報科学部 情報ネットワーク学科](https://www.it-chiba.ac.jp/)
 
-職位：准教授
+職位：教授
 
 博士（工学）
 
-e-Mail: t.tomoto☆eng.t-kougei.ac.jp
+e-Mail: tomoto☆net.it-chiba.ac.jp
 
 sub e-Mail: toumotan☆yahoo.co.jp
 
 - ☆を@ に変更して下さい
 
 ## 略歴
+* 2023年～ 千葉工業大学情報科学部 教授
 * 2018年～ 東京工芸大学工学部 准教授
 * 2015年～2017年 東京工芸大学工学部 助教
 * 2010年～2015年 東京理科大学工学部 助教
