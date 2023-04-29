@@ -2,26 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://www.takahito.com/categories/</loc>
+    <loc>/topics/concepts/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>https://www.takahito.com/tags/</loc>
+    <loc>/team/tomoto/</loc>
   </url><url>
-    <loc>https://www.takahito.com/</loc>
+    <loc>/mike-vance/</loc>
+    <lastmod>2018-12-20T13:44:30+10:00</lastmod>
   </url><url>
-    <loc>https://www.takahito.com/awards/</loc>
+    <loc>/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>https://www.takahito.com/tomoto/</loc>
+    <loc>/topics/</loc>
+    <lastmod>2018-11-18T12:33:46+10:00</lastmod>
   </url><url>
-    <loc>https://www.takahito.com/members/</loc>
+    <loc>/categories/</loc>
   </url><url>
-    <loc>https://www.takahito.com/members/aikawa/</loc>
+    <loc>/404/</loc>
   </url><url>
-    <loc>https://www.takahito.com/research/</loc>
+    <loc>/tags/</loc>
   </url><url>
-    <loc>https://www.takahito.com/publications/</loc>
+    <loc>/team/zama/</loc>
   </url><url>
-    <loc>https://www.takahito.com/grants/</loc>
+    <loc>/team/matsui/</loc>
   </url><url>
-    <loc>https://www.takahito.com/members/mogi/</loc>
+    <loc>/team/</loc>
+  </url><url>
+    <loc>/team/aikawa/</loc>
+  </url><url>
+    <loc>/publications/</loc>
+  </url><url>
+    <loc>/team/mogi/</loc>
+  </url><url>
+    <loc>/team/ogita/</loc>
   </url>
 </urlset>

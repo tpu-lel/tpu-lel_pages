@@ -1,12 +1,16 @@
 ---
 title: "ようこそ、東本研究室へ"
+meta_title: '東本研究室'
+image: "images/illustrations/11813_color.svg"
+image_absolute: false
+image_hide_on_mobile: true
 ---
 
-{{< figure src="/images/banner.png">}}
+**認知心理に基づく学びの支援で「達成できて、楽しい」を手伝う**
 
-東本研究室（学習工学研究室）は、[東本 崇仁](/tomoto/)が主宰する[東京工芸大学工学部 工学科 情報コース / 同大学院工学研究科 電子情報工学専攻](https://www.t-kougei.ac.jp/)に属する研究室です。
+[千葉工業大学](https://www.it-chiba.ac.jp/) [東本崇仁](/team/tomoto/) 研究室
 
-**人の認知心理に関わる理論の設計とそれに基づいた学習支援システムの開発**を主に行っています．
+|ABSTRACT|
 
 ## 競争的資金の獲得状況
 ### 研究代表者

@@ -1,38 +1,94 @@
-baseURL = "https://www.takahito.com"
+baseURL = "/"
+themesDir = "themes"
+theme = "hugo-serif-theme"
 languageCode = "ja-jp"
-title = "東本研究室"
-theme = "soho"
-enableInlineShortcodes = true
+title = "Tomoto Lab"
 
-summarylength = 10
-enableEmoji = true
-
-[permalinks]
-  post = "/:filename/"
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.55.0"
 
 [params]
-author = "Takahito Tomoto"
-description = "Takahito Tomoto's Laboratory"
 
-copyright = "Takahito Tomoto"
-license = "CC BY-SA 4.0"
-licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+  [params.logo]
+    mobile = "images/logo/banner.svg"
+    mobile_height = "36px"
+    desktop = "images/logo/banner.svg"
+    desktop_height = "36px"
+    alt = "Tomoto Lab"
 
-profilePicture = "android-chrome-512x512.png"
+  [params.fonts]
+    # sets the google font link in layouts/partials/google-fonts.html
+    google_fonts = 'https://fonts.googleapis.com/css2?family=M+PLUS+1p:wght@200;400;800&display=swap'
+    heading = "M Plus 1p"
+    base = "M Plus 1p"
+    lighter_weight = "200"
+    bolder_weight = "800"
+
+
+  [params.colors]
+    primary = "#008037"
+    black = "#49757a"
+    white = "#ffffff"
+    white_offset = "#f6f7ff"
+    grey = "#015c40"
+
+  [params.footer]
+    copyright_text = '© Takahito Tomoto Laboratory.'
+
+  [params.team]
+    alt_image = 'images/logo/logo-circle.svg'
+
 [menu]
-[[menu.main]]
-  name = "東本 崇仁"
-  url = "/tomoto/"
-  weight = 1
-[[menu.main]]
+  # Main Menu
+  [[menu.main]]
+    name = "ホーム"
+    url = "/"
+    weight = 1
+
+  [[menu.main]]
+    name = "東本崇仁"
+    url = "/members/tomoto/"
+    weight = 2
+
+  [[menu.main]]
     name = "研究内容"
     url = "/research/"
-    weight = 2
+    weight = 3
+
   [[menu.main]]
     name = "構成員"
     url = "/members/"
-    weight = 10
-[[menu.main]]
+    weight = 4
+
+  [[menu.main]]
     name = "研究業績"
     url = "/publications/"
-    weight = 20
+    weight = 5
+
+  # Footer Menu
+  [[menu.footer]]
+    name = "ホーム"
+    url = "/"
+    weight = 1
+
+  [[menu.footer]]
+    name = "東本崇仁"
+    url = "/members/tomoto/"
+    weight = 2
+
+  [[menu.footer]]
+    name = "研究内容"
+    url = "/research/"
+    weight = 3
+
+  [[menu.footer]]
+    name = "構成員"
+    url = "/members/"
+    weight = 4
+
+  [[menu.footer]]
+    name = "研究業績"
+    url = "/publications/"
+    weight = 5

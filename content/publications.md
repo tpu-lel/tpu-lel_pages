@@ -2,20 +2,20 @@
 title: "研究業績"
 ---
 
-## 巻頭言
+# 巻頭言
 1. 東本崇仁: プログラミング教育必修化の意義と現場での教育, 教育システム情報学会誌, Vol. 34, No. 2, pp. 79–81, (2017)
 
-## 解説
+# 解説
 1. 東本崇仁: 私の教育システム情報学マップ…を作るに至るまでの話, 教育システム情報学会誌, Vol. 39, No. 2, pp. 179-186, (2022)
 2. 東本崇仁, 柏原昭博: 学術界と産業界の相互理解イベント：ラーニングイノベーショングランプリ, 教育システム情報学会誌, Vol. 38, No. 3, pp. 190-198, (2021)
 3. 堀口知也, 東本崇仁, 平嶋宗: 知識モデリングに基づく学習支援, 人工知能学会誌, Vol. 35, No. 2, pp. 192–200, (2020)
 4. 東本崇仁: 知識の構造化のための外化と誤りの可視化(<特集>学習科学と学習工学のフロンティア-私の"学習"研究-(後編)), 人工知能学会誌, Vol. 30, No. 4, pp. 506–507, (2015)
 5. 真嶋由貴恵, 合田美子, 小島一晃, 東本崇仁, 林雄介: 「医療・看護・福祉分野におけるICT利用教育／ICTを活用した教育の質保証」, 教育システム情報学会誌, Vol. 31, No. 1, pp. 5–7, (2014)
 
-## 書籍
+# 書籍
 1. eラーニング/eテスティング（テスト時の学習者の誤りの可視化の効用），教育工学選書II－１，（ミネルヴァ書房），pp.157-172，2016/06/20
 
-## 査読付学術論文
+# 査読付学術論文
 1. 前田新太郎, 茂木誠拓, 古池謙人, 東本崇仁: 仮想ロボットプログラミングを用いたコード共有プラットフォームの開発と評価, 教育システム情報学会誌, Vol. 40, No. 3, in press, (2023/07)
 1. 古池謙人, 藤島優希, 東本崇仁, 堀口知也, 平嶋宗: プログラミングの機能的階層構造の学習環境における習熟度を考慮した適応的フィードバック機能の評価, 教育システム情報学会誌, Vol. 40, No. 3, in press, (2023/07)
 1. 古池謙人, 樋村いづみ, 東本崇仁: TAME: 誤りの可視化を重視したTeachable Agentの挙動制御手法, 電子情報通信学会論文誌 D, Vol. J106-D, No. 2, in press, (2023/02)
@@ -56,7 +56,7 @@ title: "研究業績"
 35. 東本崇仁, 市将治, 平嶋宗, 竹内章: 多桁減算を対象とした作問学習支援環境の設計・開発, 日本教育工学会論文誌, Vol. 31, No. 1, pp. 61–68, (2007) ※2
     - Tomoto, T., Ichi, M., Hirashima, T., and Takeuchi, A.: Interactive Environment for Learning by Problem-Posing in Multi-Digit Subtraction, Educational technology research, Vol. 31, No. 1, pp. 107–113, (2008) (Translation) (※2の英訳)
 
-## 国際会議
+# 国際会議
 1. Aikawa, N., Shintaro, M., Tomohiro, M., Koike, K., Tomoto, T., Isao, I., Tomoya, H., and Tsukasa, H.: Practical Use of an Error-based Problem Presentation System in Mechanics, Workshop proceedings of the International Conference on Computers in Education ICCE 2022, pp. 118–123, (2022/12)
 1. Aikawa, N., Koike, K., Tomoto, T., Horiguchi, T., and Hirashima, T.: Automatic Generation Rules for Auxiliary Problems Based on Causal Relationships for Force in a Mechanics Learning Support System, HCI International 2022. Lecture Notes in Computer Science, vol 13305., pp. 437–450, Springer, (2022/06)
 1. Koike, K., Himura, I., and Tomoto, T.: TAME: A Method of Teachable Agent Modeling for Error-visualization, HCI International 2022. Lecture Notes in Computer Science, vol 13305., pp. 461–474, Springer, (2022/06)
@@ -107,7 +107,7 @@ title: "研究業績"
 1. T. Toumoto, T. Horiguchi, T. Hirashima, A. Takeuchi, “Interactive Environment to Support Learning by Designing Physics Experiments,” World Conf. E-Learning Corp. Gov. Heal. High. Educ. 2006, pp. 3067-3075, (2006).
 1. T. Toumoto, T. Horiguchi, T. Hirashima, A. Takeuchi, “Virtual Experimental Environment to Support Learning by Designing Physics Experiment,” World Conf. Educ. Media Technol. 2006, pp. 2443-2445, (2006).
 
-## 研究会
+# 研究会
 1. 相川野々香, 前田新太郎, 茂木誠拓, 古池謙人, 東本崇仁, 今井功, 堀口知也, 平嶋宗: 力学を対象とした誤りに基づく問題提示システムを用いた授業実践におけるテスト結果の分析, 電子情報通信学会技術研究報告(ET), Vol. 122, No. 241, pp. 11-18, (2022/11)
 1. 前田新太郎, 古池謙人, 東本崇仁: 洗練活動を促すコード共有プラットフォームにおける戦略を基にしたコードの共有手法, 電子情報通信学会技術研究報告(ET), Vol. 122, No. 241, pp. 25-28, (2022/11)
 1. 松爲泰生, 前田新太郎, 古池謙人, 東本崇仁: ソースコ―ドの振舞いモデルから機能の解釈を促す支援システムにおけるフィードバックの検討, 電子情報通信学会技術研究報告(ET), Vol. 122, No. 241, pp. 29-34, (2022/11)
@@ -239,7 +239,7 @@ title: "研究業績"
 1. 匂坂洋介, 東本崇仁, 平嶋宗, “式が成立する状況を作図させることによる力学学習の支援環境,” 電子情報通信学会技術研究報告, vol. 105, no. 336, pp. 23-28, (2005).
 1. 東本崇仁, 平嶋宗, 堀口知也, “仮想実験環境における学習者による仮説設定と仮説に基づく実験評価 (「e-Learningにおける学習支援とコンテンツ開発」および一般),” 先進的学習科学と工学研究会, vol. 41, pp. 37-42, (2004).
 
-## 全国大会
+# 全国大会
 1. 松爲泰生, 前田新太郎, 古池謙人, 東本崇仁: ソースコードの機能の理解を振舞いモデルの解釈から促す支援システムの提案, 第24回日本感性工学会大会, p. [1D-1-06], (2022/09)
 2. 荻田将徳, 相川野々香, 古池謙人, 東本崇仁: 物理を題材としたTeachable Agent Modeling for Error-visualizationにおける制約の提案, 第24回日本感性工学会大会, p. [1D-1-07], (2022/09)
 3. 荻田将徳, 前田新太郎, 相川野々香, 古池謙人, 東本崇仁: 物理における制約の理解を指向したTeachable Agent Modeling for Error-visualizationによる学習手法の提案, 教育システム情報学会全国大会講演論文集, pp. 171–172, (2022/08)

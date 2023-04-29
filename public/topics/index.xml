@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>研究内容 on Tomoto Lab</title>
+    <link>/topics/</link>
+    <description>Recent content in 研究内容 on Tomoto Lab</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-jp</language>
+    <lastBuildDate>Sun, 18 Nov 2018 12:33:46 +1000</lastBuildDate><atom:link href="/topics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Concepts</title>
+      <link>/topics/concepts/</link>
+      <pubDate>Sun, 18 Nov 2018 12:33:46 +1000</pubDate>
+      
+      <guid>/topics/concepts/</guid>
+      <description>私は元々ゲームなど遊びが大好きでした。遊びは楽しい。楽しいということは強いモチベーションを生み出します。なぜ、今「学習」というテーマについて研究しているのか。「教育」は先生主体ですが、「学習」は学び手（学習者）主体です。ゲームも学習も「何かを達成できて、楽しい」という共通性を持っています。ただ、学校教育では「教師による一方的な押し付け」が学習をつまらないものにします。
+本研究室では、「教師による一方的な」教育ではなく、「学習者主体」の楽しい学習を支援するシステムを設計します。「何が楽しいか」、「何を学ぶべきか」、「なぜ学ぶべきか」？ これらは、学習者がどのように考えているか、そして学習者が自分のことをどれだけ理解しているかに関係します。そのため、人の認知に関する心理（認知心理学）に基づいて、研究を進める必要があります。また、「教師による一方的な」教育を回避し、「学習者主体」になるには、「学習者がまずは行動し、それに教える側が対応する」ことが必要です。しかし、教師一人ですべての学習者の行動に対応することが大切です。本研究室では、人工知能により学習者の活動を診断し、フィードバックを与えるシステムを設計・開発します。</description>
+    </item>
+    
+  </channel>
+</rss>
