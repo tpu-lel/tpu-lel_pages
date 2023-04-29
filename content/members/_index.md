@@ -1,5 +1,7 @@
 ---
 title: "構成員"
+intro_image: "images/illustrations/team.svg"
+intro_image_absolute: false
 ---
 
 ## 教員
@@ -22,4 +24,3 @@ title: "構成員"
 - [M1 白髭 虹輝](/members/shirahige/)
 
 ## 学部
-
