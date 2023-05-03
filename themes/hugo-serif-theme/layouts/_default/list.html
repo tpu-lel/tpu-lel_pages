@@ -1,0 +1,38 @@
+{{ define "body_classes" }}page-default-list{{ end }}
+
+{{ define "main" }}
+<div class="intro">
+  <div class="container">
+    <div class="row justify-content-center">
+      {{ if .Params.image }}
+      {{ $cols := split .RawContent "|ABSTRACT|" }}
+      {{ $is_abstract := gt (len (index $cols 0 | markdownify)) 0}}
+      {{if $is_abstract}}
+      <div class="col-10 col-md-6 col-lg-7 order-2 order-md-1">
+        {{ index $cols 0 | markdownify }}
+      </div>
+      {{ end }}
+      {{if $is_abstract}} <div class="col-6 col-md-4 col-lg-3 order-1 order-md-2 position-relative">
+        {{ else }} <div class="col-6 col-md-5 col-lg-6 order-1 order-md-2 position-relative"> {{ end }}
+          <img alt={{ .Title }}
+            class="img-fluid {{ if .Params.image_absolute }} image-absolute{{ end }}{{ if .Params.image_hide_on_mobile }} image-hide-mobile{{ end }} d-block mx-auto"
+            style="max-width: 100%; height: auto;" src="{{ .Params.image | relURL }}" />
+        </div>
+      </div>
+      {{ if gt (len $cols) 1}}
+      <div class="col-12">
+        {{ index $cols 1 | markdownify }}
+      </div>
+      {{ else }}
+      <div class="col-12">
+        {{ .RawContent | markdownify }}
+      </div>
+      {{ end }}
+    </div>
+    {{ end }}
+  </div>
+</div>
+{{ end }}
+
+{{ define "footer_js" }}
+{{ end }}

@@ -1,0 +1,16 @@
+{{ define "body_classes" }}page-publications-single{{ end }}
+
+{{ define "main" }}
+<div class="intro">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-10">
+        {{ .RawContent | markdownify }}
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}
+
+{{ define "footer_js" }}
+{{ end }}

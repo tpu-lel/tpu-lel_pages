@@ -1,6 +1,10 @@
 ---
 title: "構成員"
+image: "images/illustrations/team.svg"
+image_absolute: false
 ---
+
+|ABSTRACT|
 
 ## 教員
 
@@ -13,7 +17,6 @@ title: "構成員"
 
 ## 博士前期課程
 
-
 - M2 山崎 義徳
 - [M2 荻田 将徳](/members/ogita/)
 - M2 十文字 智人
@@ -23,3 +26,8 @@ title: "構成員"
 
 ## 学部
 
+- なし
+
+## 博士課程修了生
+
+- 2022年度卒 [古池 謙人](https://koike.app/) -> 京都大学 特定研究員
