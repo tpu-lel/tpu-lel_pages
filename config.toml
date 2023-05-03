@@ -49,7 +49,7 @@ title = "Tomoto Lab"
 
   [[menu.main]]
     name = "東本崇仁"
-    url = "/members/tomoto/"
+    url = "/tomoto/"
     weight = 2
 
   [[menu.main]]
@@ -75,7 +75,7 @@ title = "Tomoto Lab"
 
   [[menu.footer]]
     name = "東本崇仁"
-    url = "/members/tomoto/"
+    url = "/tomoto/"
     weight = 2
 
   [[menu.footer]]
