@@ -30,4 +30,4 @@ image_absolute: false
 
 ## 博士課程修了生
 
-- 2022年度卒 [古池 謙人](https://koike.app/) -> 京都大学 特定研究員
+- 2022年度卒 [古池 謙人](https://koike.app/) ([博士論文](http://id.nii.ac.jp/1245/00002150/)) -> 京都大学 特定研究員
