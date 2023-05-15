@@ -58,7 +58,7 @@ title: "研究業績"
     - Tomoto, T., Ichi, M., Hirashima, T., and Takeuchi, A.: Interactive Environment for Learning by Problem-Posing in Multi-Digit Subtraction, Educational technology research, Vol. 31, No. 1, pp. 107–113, (2008) (Translation) (※2の英訳)
 
 # 国際会議
-1. Aikawa, N., Shintaro, M., Tomohiro, M., Koike, K., Tomoto, T., Isao, I., Tomoya, H., and Tsukasa, H.: Practical Use of an Error-based Problem Presentation System in Mechanics, Workshop proceedings of the International Conference on Computers in Education ICCE 2022, pp. 118–123, (2022/12)
+1. Aikawa, N., Shintaro, M., Tomohiro, M., Koike, K., Tomoto, T., Isao, I., Tomoya, H., and Tsukasa, H.: Practical Use of an Error-based Problem Presentation System in Mechanics, Proceedings of the International Conference on Computers in Education ICCE 2022, pp. 118–123, (2022/12)
 1. Aikawa, N., Koike, K., Tomoto, T., Horiguchi, T., and Hirashima, T.: Automatic Generation Rules for Auxiliary Problems Based on Causal Relationships for Force in a Mechanics Learning Support System, HCI International 2022. Lecture Notes in Computer Science, vol 13305., pp. 437–450, Springer, (2022/06)
 1. Koike, K., Himura, I., and Tomoto, T.: TAME: A Method of Teachable Agent Modeling for Error-visualization, HCI International 2022. Lecture Notes in Computer Science, vol 13305., pp. 461–474, Springer, (2022/06)
 1. Maeda, S., Koike, K., and Tomoto, T.: A Knowledge Sharing Platform for Learning from Others’ Code, HCI International 2022. Lecture Notes in Computer Science, vol 13305., pp. 489–504, Springer, (2022/06)
