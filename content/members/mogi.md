@@ -10,7 +10,7 @@ title: "茂木 誠拓"
 - 2020.04 東京工芸大学大学院 工学研究科 博士前期課程 入学
 - 2022.03 東京工芸大学大学院 工学研究科 博士前期課程 修了
 - 2022.04 東京工芸大学大学院 工学研究科 博士後期課程 入学
-- 2023.03 東京工芸大学大学院 工学研究科 博士後期課程 中退
+- 2023.03 東京工芸大学大学院 工学研究科 博士後期課程 中途退学
 - 2023.04 千葉工業大学大学院 情報科学研究科 博士後期課程 入学
 
 ## 学会活動
@@ -29,12 +29,12 @@ title: "茂木 誠拓"
 * 2023.04〜 明海大学 講師（学修の基礎Ⅲ-b）
 
 ## 研究業績
-* 原著論文
+* 査読付学術論文
   1. 前田新太郎, 茂木誠拓, 古池謙人, 東本崇仁: 仮想ロボットプログラミングを用いたコード共有プラットフォームの開発と評価, 教育システム情報学会誌, Vol. 40, No. 3, in press, (2023/07)
 * 国際会議
   1. Aikawa, N., Maeda, S., Mogi, T., Koike, K., Tomoto, T., Imai, I., Horiguchi, T., and Hirashima, T.: Analysis of Classroom Test Results for an Error-based Problem Presentation System for Mechanics, HCI International 2023, in press, (2023)
-  2. Aikawa, N., Maeda, S., Mogi, T., Koike, K., Tomoto, T., Imai, I., Horiguchi, T., and Hirashima, T.: Practical Use of an Error-based Problem Presentation System in Mechanics, Proceedings of the International Conference on Computers in Education ICCE 2022, pp. 118-123, (2022)
-  3. Mogi, T., Koike, K., Tomoto, T., Horiguchi, T., and Hirashima, T.: Proposal of Learning Support System for Improving Skills in Inferring Background Knowledge in Conversation, HCI International 2021, accepted, (2021/07)
+  2. Aikawa, N., Maeda, S., Mogi, T., Koike, K., Tomoto, T., Imai, I., Horiguchi, T., and Hirashima, T.: Practical Use of an Error-based Problem Presentation System in Mechanics, Proceedings of the International Conference on Computers in Education ICCE 2022, pp. 118-123, (2022/12)
+  3. Mogi, T., Koike, K., Tomoto, T., Horiguchi, T., and Hirashima, T.: Proposal of Learning Support System for Improving Skills in Inferring Background Knowledge in Conversation, HCI International 2021, Vol. 12766 LNCS, pp. 104-114, (2021/07)
   4. Koike, K., Mogi, T., Tomoto, T., Horiguchi, T., and Hirashima, T.: Compogram: Development and Evaluation of ITS for Organizing Programming-Knowledge by Visualizing Behavior, HCI International 2020 – Late Breaking Papers: Interaction, Knowledge and Social Media, pp. 151–162, (2020/07)
 * 研究会
   1. 相川野々香, 前田新太郎, 茂木誠拓, 古池謙人, 東本崇仁, 今井功, 堀口知也, 平嶋宗: 力学を対象とした誤りに基づく問題提示システムを用いた授業実践におけるテスト結果の分析, 電子情報通信学会技術研究報告(ET), Vol. 122, No. 241, pp. 11-18, (2022)
