@@ -55,24 +55,26 @@ title: "相川 野々香"
 3. 相川野々香, 古池謙人, 東本崇仁: Error-based Simulation (EBS)における学習者の誤り傾向に基づく問題の行詰まり解決支援システム, 電子情報通信学会論文誌 D, Vol. J103-D, No. 9, pp. 644–647, (2020/05)
 
 ### 国際会議<!-- International Conference -->
-1. Aikawa, N., Maeda, S., Mogi, T., Koike, K., Tomoto, T., Imai, I., Horiguchi, T., and Hirashima, T.: Analysis of Classroom Test Results for an Error-based Problem Presentation System for Mechanics, HCI International 2023, in press, (2023)
+1. Aikawa, N., Maeda, S., Mogi, T., Koike, K., Tomoto, T., Imai, I., Horiguchi, T., and Hirashima, T.: Analysis of Classroom Test Results for an Error-based Problem Presentation System for Mechanics, HCI International 2023. Lecture Notes in Computer Science, vol 14016., pp. 213–224, Springer, (2023/07)
 2. Aikawa, N., Maeda, S., Mogi, T., Koike, K., Tomoto, T., Imai, I., Horiguchi, T., and Hirashima, T.: Practical Use of an Error-based Problem Presentation System in Mechanics, Proceedings of the 30th International Conference on Computers in Education ICCE 2022, pp. 118–123, (2022/12)<!-- 雑誌名の部分は未精査 -->
 3. Aikawa, N., Koike, K., Tomoto, T., Horiguchi, T., and Hirashima, T.: Automatic Generation Rules for Auxiliary Problems Based on Causal Relationships for Force in a Mechanics Learning Support System, HCI International 2022. Lecture Notes in Computer Science, vol 13305., pp. 437–450, Springer, (2022/06)
 4. Aikawa, N., Koike, K., Tomoto, T., Horiguchi, T., and Hirashima, T.: Characterization of Auxiliary Problems for Automated Generation in Error-based Simulation, HCI International 2021. Lecture Notes in Computer Science, vol 12766., pp. 3–13, Springer, (2021/07)
 5. Aikawa, N., Koike, K., and Tomoto, T.: Analysis of Learning Activities with Automated Auxiliary Problem Presentation for Breaking Learner Impasses in Physics Error-based Simulations, Workshop proceedings of the International Conference on Computers in Education ICCE 2020, pp. 72–83, (2020/11)
 
 ### 研究会
-1. 相川野々香, 前田新太郎, 茂木誠拓, 古池謙人, 東本崇仁, 今井功, 堀口知也, 平嶋宗: 力学を対象とした誤りに基づく問題提示システムを用いた授業実践におけるテスト結果の分析, 電子情報通信学会技術研究報告(ET), Vol. 122, No. 241, pp. 11–18, (2022/11)
-2. 十文字智人, 相川野々香, 東本崇仁: ロバストシミュレータのヒューリスティクスを用いたベクトルを対象とした2種類の誤り可視化の分析と再設計, 人工知能学会第95回先進的学習科学と工学研究会, pp. 15–19, (2022/07)
-3. 十文字智人, 相川野々香, 東本崇仁: ベクトル学習のための誤りの可視化による学習支援システムの開発, 人工知能学会第94回先進的学習科学と工学研究会, pp. 1–6, (2022/03)
-4. 齊藤寛, 相川野々香, 古池謙人, 東本崇仁: 力学における学習者の誤答に基づいた誤り作問システムの開発と評価, 人工知能学会第94回先進的学習科学と工学研究会, pp. 7–12, (2022/03)
-5. 十文字智人, 相川野々香, 東本崇仁: ベクトルを対象とした2つの誤り可視化を行う学習支援システムの開発と評価, 2021年度JSiSE学生研究発表会, pp. 63–64, (2022/03)
-6. 相川野々香, 前田新太郎, 茂木誠拓, 古池謙人, 東本崇仁, 今井功, 堀口知也, 平嶋宗: Error-based Simulationにおける学習者の誤り箇所に適応的な補助問題提示システムの中学校での授業実践, 2021年度JSiSE学生研究発表会, pp. 67–68, (2022/03)
-7. 相川野々香, 古池謙人, 東本崇仁, 堀口知也, 平嶋宗: Error-based Simulationを対象にした因果推論理論に基づく自動的な補助問題生成法の検討, 人工知能学会第92回先進的学習科学と工学研究会, pp. 6–11, (2021/07)
-8. 相川野々香, 古池謙人, 東本崇仁, 堀口知也, 平嶋宗: Error-based Simulationにおける自動的な補助問題生成法の提案, 人工知能学会第91回先進的学習科学と工学研究会, pp. 105–110, (2021/03)
-9. 相川野々香, 古池謙人, 東本崇仁: 行詰り解決を指向したError-based Simulationシステムの補助問題提示機能による学習活動の分析, 人工知能学会第89回先進的学習科学と工学研究会, pp. 17-20, (2020/07)
-10. 相川野々香, 東本崇仁: Error-based Simulationにおける学習者の誤り傾向に基づく適応的な補助問題提示システムの開発と評価, 人工知能学会第88回先進的学習科学と工学研究会, Vol. 88, pp. 97–102, (2020/03)
-11. 相川野々香, 東本崇仁: EBSにおける学習者の誤り傾向に基づく問題の行詰まり解決支援システムの提案と予備的評価, 人工知能学会第87回先進的学習科学と工学研究会, Vol. 87, pp. 28–31, (2019/11)
+1. 中村祐希人, 相川野々香, 東本崇仁: 誤りの可視化システムのフィードバックに対する発話プロトコル分析を用いた分析方法の提案と結果, 人工知能学会第98回先進的学習科学と工学研究会, pp. 7-12, (2023/07)
+2. 関川千紗子, 相川野々香, 東本崇仁: 力学の立式に用いる力の要素に着目した物理現象の可視化による学習支援システム, 教育システム情報学会特集論文研究会研究報告, Vol. 37, No. 7, pp. 116-121, (2023/03)
+3. 相川野々香, 前田新太郎, 茂木誠拓, 古池謙人, 東本崇仁, 今井功, 堀口知也, 平嶋宗: 力学を対象とした誤りに基づく問題提示システムを用いた授業実践におけるテスト結果の分析, 電子情報通信学会技術研究報告(ET), Vol. 122, No. 241, pp. 11–18, (2022/11)
+4. 十文字智人, 相川野々香, 東本崇仁: ロバストシミュレータのヒューリスティクスを用いたベクトルを対象とした2種類の誤り可視化の分析と再設計, 人工知能学会第95回先進的学習科学と工学研究会, pp. 15–19, (2022/07)
+5. 十文字智人, 相川野々香, 東本崇仁: ベクトル学習のための誤りの可視化による学習支援システムの開発, 人工知能学会第94回先進的学習科学と工学研究会, pp. 1–6, (2022/03)
+6. 齊藤寛, 相川野々香, 古池謙人, 東本崇仁: 力学における学習者の誤答に基づいた誤り作問システムの開発と評価, 人工知能学会第94回先進的学習科学と工学研究会, pp. 7–12, (2022/03)
+7. 十文字智人, 相川野々香, 東本崇仁: ベクトルを対象とした2つの誤り可視化を行う学習支援システムの開発と評価, 2021年度JSiSE学生研究発表会, pp. 63–64, (2022/03)
+8. 相川野々香, 前田新太郎, 茂木誠拓, 古池謙人, 東本崇仁, 今井功, 堀口知也, 平嶋宗: Error-based Simulationにおける学習者の誤り箇所に適応的な補助問題提示システムの中学校での授業実践, 2021年度JSiSE学生研究発表会, pp. 67–68, (2022/03)
+9. 相川野々香, 古池謙人, 東本崇仁, 堀口知也, 平嶋宗: Error-based Simulationを対象にした因果推論理論に基づく自動的な補助問題生成法の検討, 人工知能学会第92回先進的学習科学と工学研究会, pp. 6–11, (2021/07)
+10. 相川野々香, 古池謙人, 東本崇仁, 堀口知也, 平嶋宗: Error-based Simulationにおける自動的な補助問題生成法の提案, 人工知能学会第91回先進的学習科学と工学研究会, pp. 105–110, (2021/03)
+11. 相川野々香, 古池謙人, 東本崇仁: 行詰り解決を指向したError-based Simulationシステムの補助問題提示機能による学習活動の分析, 人工知能学会第89回先進的学習科学と工学研究会, pp. 17-20, (2020/07)
+12. 相川野々香, 東本崇仁: Error-based Simulationにおける学習者の誤り傾向に基づく適応的な補助問題提示システムの開発と評価, 人工知能学会第88回先進的学習科学と工学研究会, Vol. 88, pp. 97–102, (2020/03)
+13. 相川野々香, 東本崇仁: EBSにおける学習者の誤り傾向に基づく問題の行詰まり解決支援システムの提案と予備的評価, 人工知能学会第87回先進的学習科学と工学研究会, Vol. 87, pp. 28–31, (2019/11)
 
 ### 全国大会
 1. 相川野々香, 前田新太郎, 古池謙人, 東本崇仁, 堀口知也, 平嶋宗: 力学を対象とした力の因果関係に基づく補助問題の自動生成システムの開発, 人工知能学会全国大会論文集 第37回, pp. [1R5-OS-10b-03], (2023/06)<!-- 雑誌名の部分は未精査 -->
@@ -91,7 +93,7 @@ title: "相川 野々香"
 3. 相川野々香: EBSとマイクロワールドグラフによる問題の行き詰まり解決支援システム, リサーチ・コ・コ・コモンズ, (2019/11)
 
 ## 実践利用
-1. 2021年12月9日 〜 2021年12月14日 Error-based Simulation利用，千葉市立さつきが丘中学校，3年生3クラス（約90名），各3時限
+1. 2021年12月9日 〜 2021年12月14日 Error-based Simulation利用，千葉市立さつきが丘中学校，3年生3クラス（約90名）, 各3時限
 
 <!-- 
 ## 資格
