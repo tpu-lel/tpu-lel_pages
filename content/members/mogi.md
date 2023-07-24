@@ -32,10 +32,11 @@ title: "茂木 誠拓"
 * 査読付学術論文
   1. 前田新太郎, 茂木誠拓, 古池謙人, 東本崇仁: 仮想ロボットプログラミングを用いたコード共有プラットフォームの開発と評価, 教育システム情報学会誌, Vol. 40, No. 3, in press, (2023/07)
 * 国際会議
-  1. Aikawa, N., Maeda, S., Mogi, T., Koike, K., Tomoto, T., Imai, I., Horiguchi, T., and Hirashima, T.: Analysis of Classroom Test Results for an Error-based Problem Presentation System for Mechanics, HCI International 2023, in press, (2023)
-  2. Aikawa, N., Maeda, S., Mogi, T., Koike, K., Tomoto, T., Imai, I., Horiguchi, T., and Hirashima, T.: Practical Use of an Error-based Problem Presentation System in Mechanics, Proceedings of the International Conference on Computers in Education ICCE 2022, pp. 118-123, (2022/12)
-  3. Mogi, T., Koike, K., Tomoto, T., Horiguchi, T., and Hirashima, T.: Proposal of Learning Support System for Improving Skills in Inferring Background Knowledge in Conversation, HCI International 2021, Vol. 12766 LNCS, pp. 104-114, (2021/07)
-  4. Koike, K., Mogi, T., Tomoto, T., Horiguchi, T., and Hirashima, T.: Compogram: Development and Evaluation of ITS for Organizing Programming-Knowledge by Visualizing Behavior, HCI International 2020 – Late Breaking Papers: Interaction, Knowledge and Social Media, pp. 151–162, (2020/07)
+  1. Mogi, T.,Tateiwa, Y.,Tomoto, T.,Akakura T.: Proposal for Automatic Problem and Feedback Generation for use in Trace Learning Support Systems, HCI International 2023, vol. 14016 LNCS, pp. 310-321, (2023)
+  2. Aikawa, N., Maeda, S., Mogi, T., Koike, K., Tomoto, T., Imai, I., Horiguchi, T., and Hirashima, T.: Analysis of Classroom Test Results for an Error-based Problem Presentation System for Mechanics, HCI International 2023, vol. 14016 LNCS, pp. 213–224, (2023)
+  3. Aikawa, N., Maeda, S., Mogi, T., Koike, K., Tomoto, T., Imai, I., Horiguchi, T., and Hirashima, T.: Practical Use of an Error-based Problem Presentation System in Mechanics, Proceedings of the International Conference on Computers in Education ICCE 2022, pp. 118-123, (2022/12)
+  4. Mogi, T., Koike, K., Tomoto, T., Horiguchi, T., and Hirashima, T.: Proposal of Learning Support System for Improving Skills in Inferring Background Knowledge in Conversation, HCI International 2021, Vol. 12766 LNCS, pp. 104-114, (2021/07)
+  5. Koike, K., Mogi, T., Tomoto, T., Horiguchi, T., and Hirashima, T.: Compogram: Development and Evaluation of ITS for Organizing Programming-Knowledge by Visualizing Behavior, HCI International 2020 – Late Breaking Papers: Interaction, Knowledge and Social Media, pp. 151–162, (2020/07)
 * 研究会
   1. 相川野々香, 前田新太郎, 茂木誠拓, 古池謙人, 東本崇仁, 今井功, 堀口知也, 平嶋宗: 力学を対象とした誤りに基づく問題提示システムを用いた授業実践におけるテスト結果の分析, 電子情報通信学会技術研究報告(ET), Vol. 122, No. 241, pp. 11-18, (2022)
   2. 松爲泰生, 前田新太郎, 茂木誠拓, 古池謙人, 東本崇仁: 振る舞いのトレースを通じてソースコードの機能の理解を促す学習支援システムの開発, 人工知能学会第94回先進的学習科学と工学研究会, pp. 13-18, (2022)
