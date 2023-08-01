@@ -2,6 +2,7 @@ baseURL = "/"
 themesDir = "themes"
 theme = "hugo-serif-theme"
 languageCode = "ja-jp"
+defaultContentLanguage = 'ja'
 title = "Tomoto Lab"
 
 [module]
