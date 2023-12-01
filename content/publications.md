@@ -59,6 +59,8 @@ title: "研究業績"
     - Tomoto, T., Ichi, M., Hirashima, T., and Takeuchi, A.: Interactive Environment for Learning by Problem-Posing in Multi-Digit Subtraction, Educational technology research, Vol. 31, No. 1, pp. 107–113, (2008) (Translation) (※2の英訳)
 
 # 国際会議
+1. Mogi, T., Tateiwa, Y., Tomoto, T., Akakura, T.: Evaluation of an Automatic Generation System for Tracing Tasks Based on Textbook Programs, Workshop Proceedings of the International Conference on Computers in Education ICCE 2023, accepted
+1. Jumonji, T., Aikawa, N., Tomoto, T.: Development of a Semi-Active Learning Support System with Operation Index for the Mathematics of Vectors, Workshop Proceedings of the International Conference on Computers in Education ICCE 2023, accepted
 1. Maeda, S., Koike, K., and Tomoto, T.: Classroom Practice Using a Code-Sharing Platform to Encourage Refinement Activities, HCI International 2023. Lecture Notes in Computer Science, vol 14016., pp. 286–297, Springer, (2023/07)
 1. Matsui, T., Maeda, S., Koike, K., and Tomoto, T.: A Learning Support System for Programming that Promotes Understanding of Source Code Function Through Behavior Modeling, HCI International 2023. Lecture Notes in Computer Science, vol 14016., pp. 298–309, Springer, (2023/07)
 1. Mogi, T., Tateiwa, Y., Tomoto, T., and Akakura, T.: Proposal for Automatic Problem and Feedback Generation for Use in Trace Learning Support Systems, HCI International 2023. Lecture Notes in Computer Science, vol 14016., pp. 310–321, Springer, (2023/07)
