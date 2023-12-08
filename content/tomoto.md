@@ -46,7 +46,10 @@ image_hide_on_mobile: true
 ### 国外における活動
 * 2012年 9月 1日～ International Conference on Human-Computer Interaction Parallel Session Organizer ～ 現在に至る
 * 2013年 5月 1日～ International Conference on Computers in Education, Workshop on Modeling, Management and Generation of Problems/Questions in Technology-Enhanced Learning ワークショッププログラム委員 ～ 現在に至る
-* 2020年 4月 1日～ The Asia-Pacific Society for Computers in Education Co-chair of SIG on Educational Use of Problems/Questions in Technology-Enhanced Learning ～ 現在に至る
+* 2020年 4月 1日～ The Asia-Pacific Society for Computers in Education Co-chair of SIG on Educational Use of Problems/Questions in Technology-Enhanced Learning ～ 2021/11/30
+* 2021年 12月 1日～ The Asia-Pacific Society for Computers in Education Chair of SIG on Educational Use of Problems/Questions in Technology-Enhanced Learning ～  現在に至る
+* 2022年 9月 1日～ Artificial Intelligence in Education 実行委員 ～  現在に至る
+* 2022年 12月 1日～ International Conference on Computers in Education Local Organizing Committee ～  現在に至る
 
 ### 国内における活動（幹事等）
 * 2011年 9月 1日～ 教育システム情報学会 学会誌編集委員 幹事 ～ 2015年8月31日
@@ -62,6 +65,13 @@ image_hide_on_mobile: true
 * 2019年 9月 1日～ 人工知能学会全国大会 セッション支援担当 〜 現在に至る
 * 2020年 11月 1日〜 教育システム情報学会全国大会 プログラム担当委員 〜 現在に至る
 * 2020年 9月 1日～ 人工知能学会全国大会 編集委員連絡担当 〜 現在に至る
+* 2021年 11月 1日～ 教育システム情報学会 全国大会委員会 プログラム幹事  〜 現在に至る
+* 2021年 11月 1日～ 教育システム情報学会 全国大会委員会 副部会長 〜 現在に至る
+* 2021年 11月 1日～ 教育システム情報学会 教育システム情報学マップ作成WG 〜 現在に至る
+* 2021年 11月 1日～ 教育システム情報学会 関東支部幹事 〜 現在に至る
+* 2021年 11月 1日～ 教育システム情報学会 研究会委員会 〜 現在に至る
+* 2023年 6月 24日～ 教育システム情報学会 研究活性化委員会 担当理事・副委員長 〜 現在に至る
+* 2023年 6月 24日～ 教育システム情報学会 理事  〜 現在に至る
 
 ### 国内における活動（編集委員）
 * 2011年 9月 1日～ 教育システム情報学会 学会誌編集委員 ～2015年8月31日
