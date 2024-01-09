@@ -53,17 +53,18 @@ title: "相川 野々香"
 5. 2021年度 JSiSE学生研究発表会 支部長賞 受賞, (2022/03) (相川野々香, 前田新太郎, 茂木誠拓, 古池謙人, 東本崇仁, 今井功, 堀口知也, 平嶋宗: Error-based Simulationにおける学習者の誤り箇所に適応的な補助問題提示システムの中学校での授業実践, 2021年度JSiSE学生研究発表会, pp. 67–68, (2022/03))
 
 ### 査読付学術論文<!-- Journal papers -->
-1. Aikawa, N., Maeda, S., Mogi, T., Koike, K., Tomoto, T., Imai, I., Horiguchi, T., and Hirashima, T.: Classroom implementation of an auxiliary problem presentation system for mechanics adapted to learners’ errors, Research and Practice in Technology Enhanced Learning, accepted, (2024)
+1. Aikawa, N., Maeda, S., Mogi, T., Koike, K., Tomoto, T., Imai, I., Horiguchi, T., and Hirashima, T.: Classroom implementation of an auxiliary problem presentation system for mechanics adapted to learners’ errors, Research and Practice in Technology Enhanced Learning, Vol. 19, Article 26, pp. 1-28 (2024/01)
 2. 相川野々香, 古池謙人, 東本崇仁, 堀口知也, 平嶋宗: 力学を対象としたError-based Simulationにおける行き詰まりの解消を指向した補助問題の提示システム, 電子情報通信学会論文誌 D, Vol. J106-D, No. 2, pp. 132-143, (2023/02)
 3. 相川野々香, 齊藤寛, 古池謙人, 東本崇仁: 力学における学習者の誤りに基づいた問題提示（Error-based Problem Posing）システムの開発, 電子情報通信学会論文誌 D, Vol. J106-D, No. 2, pp. 144-155, (2023/02)
 4. 相川野々香, 古池謙人, 東本崇仁: Error-based Simulation (EBS)における学習者の誤り傾向に基づく問題の行詰まり解決支援システム, 電子情報通信学会論文誌 D, Vol. J103-D, No. 9, pp. 644–647, (2020/05)
 
 ### 国際会議<!-- International Conference -->
-1. Aikawa, N., Maeda, S., Mogi, T., Koike, K., Tomoto, T., Imai, I., Horiguchi, T., and Hirashima, T.: Analysis of Classroom Test Results for an Error-based Problem Presentation System for Mechanics, HCI International 2023. Lecture Notes in Computer Science, vol 14016., pp. 213–224, Springer, (2023/07)
-2. Aikawa, N., Maeda, S., Mogi, T., Koike, K., Tomoto, T., Imai, I., Horiguchi, T., and Hirashima, T.: Practical Use of an Error-based Problem Presentation System in Mechanics, Proceedings of the 30th International Conference on Computers in Education ICCE 2022, pp. 118–123, (2022/12)<!-- 雑誌名の部分は未精査 -->
-3. Aikawa, N., Koike, K., Tomoto, T., Horiguchi, T., and Hirashima, T.: Automatic Generation Rules for Auxiliary Problems Based on Causal Relationships for Force in a Mechanics Learning Support System, HCI International 2022. Lecture Notes in Computer Science, vol 13305., pp. 437–450, Springer, (2022/06)
-4. Aikawa, N., Koike, K., Tomoto, T., Horiguchi, T., and Hirashima, T.: Characterization of Auxiliary Problems for Automated Generation in Error-based Simulation, HCI International 2021. Lecture Notes in Computer Science, vol 12766., pp. 3–13, Springer, (2021/07)
-5. Aikawa, N., Koike, K., and Tomoto, T.: Analysis of Learning Activities with Automated Auxiliary Problem Presentation for Breaking Learner Impasses in Physics Error-based Simulations, Workshop proceedings of the International Conference on Computers in Education ICCE 2020, pp. 72–83, (2020/11)
+1. Jumonji, T., Aikawa, N., and Tomoto, T.: Development of a Semi-Active Learning Support System with Operation Index for the Mathematics of Vectors, Workshop proceedings of the International Conference on Computers in Education ICCE 2023, pp. 333–342, (2023/12)
+2. Aikawa, N., Maeda, S., Mogi, T., Koike, K., Tomoto, T., Imai, I., Horiguchi, T., and Hirashima, T.: Analysis of Classroom Test Results for an Error-based Problem Presentation System for Mechanics, HCI International 2023. Lecture Notes in Computer Science, vol 14016., pp. 213–224, Springer, (2023/07)
+3. Aikawa, N., Maeda, S., Mogi, T., Koike, K., Tomoto, T., Imai, I., Horiguchi, T., and Hirashima, T.: Practical Use of an Error-based Problem Presentation System in Mechanics, Proceedings of the 30th International Conference on Computers in Education ICCE 2022, pp. 118–123, (2022/12)<!-- 雑誌名の部分は未精査 -->
+4. Aikawa, N., Koike, K., Tomoto, T., Horiguchi, T., and Hirashima, T.: Automatic Generation Rules for Auxiliary Problems Based on Causal Relationships for Force in a Mechanics Learning Support System, HCI International 2022. Lecture Notes in Computer Science, vol 13305., pp. 437–450, Springer, (2022/06)
+5. Aikawa, N., Koike, K., Tomoto, T., Horiguchi, T., and Hirashima, T.: Characterization of Auxiliary Problems for Automated Generation in Error-based Simulation, HCI International 2021. Lecture Notes in Computer Science, vol 12766., pp. 3–13, Springer, (2021/07)
+6. Aikawa, N., Koike, K., and Tomoto, T.: Analysis of Learning Activities with Automated Auxiliary Problem Presentation for Breaking Learner Impasses in Physics Error-based Simulations, Workshop proceedings of the International Conference on Computers in Education ICCE 2020, pp. 72–83, (2020/11)
 
 ### 研究会
 1. 中村祐希人, 相川野々香, 東本崇仁: 誤りの可視化システムのフィードバックに対する発話プロトコル分析を用いた分析方法の提案と結果, 人工知能学会第98回先進的学習科学と工学研究会, pp. 7-12, (2023/07)
