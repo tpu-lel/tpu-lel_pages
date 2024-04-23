@@ -6,9 +6,10 @@ image_absolute: false
 
 |ABSTRACT|
 
-## 教員
+## 教員・研究員
 
 - [教授 東本 崇仁](/tomoto/)
+- [共同研究員 古池 謙人](https://koike.app/)
 
 ## 博士後期課程
 - [D2 相川 野々香](/members/aikawa/)
@@ -30,4 +31,4 @@ image_absolute: false
 
 ## 博士課程修了生
 
-- 2022年度卒 [古池 謙人](https://koike.app/) ([博士論文](http://id.nii.ac.jp/1245/00002150/)) -> 京都大学 特定研究員
+- 2022年度卒 [古池 謙人](https://koike.app/) ([博士論文](http://id.nii.ac.jp/1245/00002150/)) -> 京都大学 特定研究員 -> 千葉工業大学 共同研究員
