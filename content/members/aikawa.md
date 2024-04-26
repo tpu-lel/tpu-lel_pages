@@ -51,7 +51,7 @@ title: "相川 野々香"
 2. 第33回教育・学習支援システム若手の会 優秀奨励賞, (2022/10/22)
 3. 2021年度 人工知能学会 先進的学習科学と工学研究会（ALST） 若手奨励賞, (2022/04) (相川野々香, 古池謙人, 東本崇仁, 堀口知也, 平嶋宗: Error-based Simulationを対象にした因果推論理論に基づく自動的な補助問題生成法の検討, 人工知能学会第92回先進的学習科学と工学研究会, pp. 6–11, (2021/07))
 4. 2021年度 東京工芸大学 杉浦六右衛門賞 受賞, (2022/03)
-5. 2021年度 JSiSE学生研究発表会 支部長賞 受賞, (2022/03) (相川野々香, 前田新太郎, 茂木誠拓, 古池謙人, 東本崇仁, 今井功, 堀口知也, 平嶋宗: Error-based Simulationにおける学習者の誤り箇所に適応的な補助問題提示システムの中学校での授業実践, 2021年度JSiSE学生研究発表会, pp. 67–68, (2022/03))
+5. 2021年度 JSiSE学生研究発表会 支部長賞 受賞, (2022/03) (相川野々香, 前田新太郎, 茂木誠拓, 古池謙人, 東本崇仁, 今井功, 堀口知也, 平嶋宗: Error-based Simulationにおける学習者の誤り箇所に適応的な補助問題提示システムの中学校での授業実践, 2021年度JSiSE学生研究発表会, pp. 67–68, (2022/03))<!-- 関東地区 https://kanto.jsise.org/event-2021 -->
 
 ### 査読付学術論文<!-- Journal papers -->
 1. Aikawa, N., Maeda, S., Mogi, T., Koike, K., Tomoto, T., Imai, I., Horiguchi, T., and Hirashima, T.: Classroom implementation of an auxiliary problem presentation system for mechanics adapted to learners’ errors, Research and Practice in Technology Enhanced Learning, Vol. 19, Article 26, pp. 1-28 (2024/01)
