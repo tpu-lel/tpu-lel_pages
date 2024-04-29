@@ -4,6 +4,10 @@ theme = "hugo-serif-theme"
 languageCode = "ja-jp"
 defaultContentLanguage = 'ja'
 title = "Tomoto Lab"
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
 
 [module]
   [module.hugoVersion]
