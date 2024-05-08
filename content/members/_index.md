@@ -23,7 +23,17 @@ image_absolute: false
 
 ## 学部
 
-- (TBA)
+- B4 内山 裕太
+- B4 宇都宮 遥太
+- B4 木村 勇太
+- B4 小林 雅哉
+- B4 斉藤 弘之
+- B4 武田 航洋
+- B4 PIERRET ROBLES JEAN PAUL
+- B4 溝口 晃大
+- B4 宮尾 幸樹
+- B4 村田 樹咲
+- B4 林 凱強
 
 ## 博士課程修了生
 
