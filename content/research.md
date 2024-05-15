@@ -55,6 +55,8 @@ title: "研究内容"
 
 誤りの可視化では「学習者の解答が【もし正しいとしたら】どんなおかしなことが起きるか」をコンピュータが「可視化」して表現します。
 
+*「人のやる気を引き出すための認知」「人の概念の変容のための認知」と「コンピュータによる仮想世界のシミュレーション」を融合した研究です。*
+
 <div style="display: flex; justify-content: space-around; align-items: start;">
     <div style="text-align: center; margin: 10px;">
         <img src="/images/research/ebs1.png" style="width: 70%;">
@@ -72,6 +74,8 @@ title: "研究内容"
 
 しかし、日常ではちょうど自分が教えるのに適した相手がいることは少ないです。そこで、コンピュータが教えられるエージェントになります。
 
+*「人に教えることによる学び」と「人の振舞いのシミュレーション」を融合した研究です。*
+
 <div style="display: flex; justify-content: space-around; align-items: start;">
     <div style="text-align: center; margin: 10px;">
         <img src="/images/research/tame1.png" style="width: 50%;">
@@ -87,6 +91,8 @@ title: "研究内容"
 しかし、人の問題解決のプロセスでは、「チャンキング」というまとまりとして情報をとらえて一括処理することが一般的で、if文やfor文などのレベルではなく、一定のまとまりのある部品を獲得することがプログラミングスキルの向上に不可欠です。
 
 本研究ではプログラミングにおいて「部品知識」の獲得を支援する研究を行っています。
+
+*「人のスキーマ（部品としての理解）としての認知」と「人の状態に適応したフィードバック技術」を融合した研究です。*
 
 <div style="display: flex; justify-content: space-around; align-items: start;">
     <div style="text-align: center; margin: 10px;">
@@ -106,6 +112,8 @@ title: "研究内容"
 
 そこで、本研究では自分や他の人のコードを評価し、ランキング形式で表示し、良いところを可視化します。同時にゲーム形式で楽しいです。
 
+*「ゲーミフィケーションによる学びの認知」「協調学習」と「ロボットプログラミング技術」「知識共有技術」を融合した研究です。*
+
 <div style="display: flex; justify-content: space-around; align-items: start;">
     <div style="text-align: center; margin: 10px;">
         <img src="/images/research/robot1.png" style="width: 50%;">
@@ -124,6 +132,8 @@ title: "研究内容"
 そこで、本研究では「どのような順番で行が実行されるか」と「各行で何が行われているか」を学習者に与えるトレース演習課題を提案しました。
 
 さらに、「もし正しいときはどのような結果になるか」も可視化し、学習者自身に誤りに気付かせます。
+
+*「対応付けた構造的な知識獲得」「操作を伴った認知」と「コンピュータの振舞い自動制御機能」を融合した研究です。*
 
 
 <div style="display: flex; justify-content: space-around; align-items: start;">
