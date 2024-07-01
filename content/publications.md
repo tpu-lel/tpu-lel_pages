@@ -60,6 +60,10 @@ title: "研究業績"
     - Tomoto, T., Ichi, M., Hirashima, T., and Takeuchi, A.: Interactive Environment for Learning by Problem-Posing in Multi-Digit Subtraction, Educational technology research, Vol. 31, No. 1, pp. 107–113, (2008) (Translation) (※2の英訳)
 
 # 国際会議
+1. Maeda, S., Koike, K., and Tomoto, T.: Code-Sharing Platform in Programming Learning: A Proposal for a Strategy-Aware Code-Sharing Methodology, HCI International 2024. Lecture Notes in Computer Science, vol 14691., pp. 338–348, Springer, (2024/07)
+1. Aikawa, N., Hiramoto, C., Tomoto, T., Horiguchi, T., and Hirashima, T.: Learning Support System for Relationships among Forces, Accelerations, Velocities, and Movements in Error-based Simulation, HCI International 2024. Lecture Notes in Computer Science, vol 14691., pp. 3–15, Springer, (2024/07)
+1. Nakamura, Y., Aikawa, N., and Tomoto, T.: Analysis of Feedback in Error Visualization Systems Using Thinking Aloud Protocol, HCI International 2024. Lecture Notes in Computer Science, vol 14690., pp. 95–110, Springer, (2024/07)
+1. Shirahige, K., Matsui, T., Maeda, S., and Tomoto, T.: Modeling of the Problem-Solving Process and Development of a Learning Support System for Text-Based Programming Problems, HCI International 2024. Lecture Notes in Computer Science, vol 14691., pp. 148–163, Springer, (2024/07)
 1. Mogi, T., Tateiwa, Y., Tomoto, T., Akakura, T.: Evaluation of an Automatic Generation System for Tracing Tasks Based on Textbook Programs, Workshop Proceedings of the International Conference on Computers in Education ICCE 2023, pp. 327–332, (2023/12)
 1. Jumonji, T., Aikawa, N., Tomoto, T.: Development of a Semi-Active Learning Support System with Operation Index for the Mathematics of Vectors, Workshop Proceedings of the International Conference on Computers in Education ICCE 2023, pp. 333–342, (2023/12)
 1. Maeda, S., Koike, K., and Tomoto, T.: Classroom Practice Using a Code-Sharing Platform to Encourage Refinement Activities, HCI International 2023. Lecture Notes in Computer Science, vol 14016., pp. 286–297, Springer, (2023/07)
