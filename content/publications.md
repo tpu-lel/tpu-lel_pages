@@ -17,7 +17,7 @@ title: "研究業績"
 1. eラーニング/eテスティング（テスト時の学習者の誤りの可視化の効用），教育工学選書II－１，（ミネルヴァ書房），pp.157-172，2016/06/20
 
 # 査読付学術論文
-1. サーバ構築学習の理解度を向上する自動調査システムと自己評価にもとづくフィードバックシステムの開発, 電子情報通信学会論文誌, accepted, (2024) <!-- 北村光芳, 東本崇仁: 掲載号：Vol.J107-B,No.09,pp.-,Sep. 2024. -->
+1. 北村光芳, 田中龍馬, 東本崇仁: サーバ構築学習の理解度を向上する自動調査システムと自己評価にもとづくフィードバックシステムの開発, 電子情報通信学会論文誌 B, Vol. J107-B, No. 09, pp. -, (2024) <!-- 北村光芳, 東本崇仁: 掲載号：Vol.J107-B,No.09,pp.-,Sep. 2024. -->
 2. Aikawa, N., Maeda, S., Mogi, T., Koike, K., Tomoto, T., Imai, I., Horiguchi, T., and Hirashima, T.: Classroom implementation of an auxiliary problem presentation system for mechanics adapted to learners’ errors, Research and Practice in Technology Enhanced Learning, Vol. 19, Article 26, pp. 1-28 (2024/01)
 3. 前田新太郎, 茂木誠拓, 古池謙人, 東本崇仁: 仮想ロボットプログラミングを用いたコード共有プラットフォームの開発と評価, 教育システム情報学会誌, Vol. 40, No. 3, pp. 240-245, (2023/07)
 4. 古池謙人, 藤島優希, 東本崇仁, 堀口知也, 平嶋宗: プログラミングの機能的階層構造の学習環境における習熟度を考慮した適応的フィードバック機能の評価, 教育システム情報学会誌, Vol. 40, No. 3, pp. 234-239, (2023/07)
