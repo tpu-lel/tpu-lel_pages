@@ -20,6 +20,10 @@ title: "白髭 虹輝"
 
 ## 研究業績
 
+### 国際会議
+
+1. Shirahige, K., Matsui, T., Maeda, S., and Tomoto, T.: Modeling of the Problem-Solving Process and Development of a Learning Support System for Text-Based Programming Problems, HCI International 2024. Lecture Notes in Computer Science, vol 14691., pp. 148–163, Springer, (2024/07)
+
 ### 研究会
 
 1. 白髭虹輝，松爲泰生，前田新太郎，東本崇人: プログラミングの文章問題における問題解決過程に沿った学習支援システムの開発，教育システム情報学会（JSiSE）2024年度第1回研究会，vol. 39, NO. 1, pp. 39-45, (2024/05)
