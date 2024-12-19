@@ -60,6 +60,7 @@ title: "研究業績"
     - Tomoto, T., Ichi, M., Hirashima, T., and Takeuchi, A.: Interactive Environment for Learning by Problem-Posing in Multi-Digit Subtraction, Educational technology research, Vol. 31, No. 1, pp. 107–113, (2008) (Translation) (※2の英訳)
 
 # 国際会議
+1. Maeda, S., Koike, K., and Tomoto, T.: Code Visualization System for Writing Better Code through Trial and Error in Programming Learning: Classroom Implementation and Practice, Workshop Proceedings of the International Conference on Computers in Education ICCE 2024, pp. 578–584, (2024/11)
 1. Maeda, S., Koike, K., and Tomoto, T.: Code-Sharing Platform in Programming Learning: A Proposal for a Strategy-Aware Code-Sharing Methodology, HCI International 2024. Lecture Notes in Computer Science, vol 14691., pp. 338–348, Springer, (2024/07)
 1. Aikawa, N., Hiramoto, C., Tomoto, T., Horiguchi, T., and Hirashima, T.: Learning Support System for Relationships among Forces, Accelerations, Velocities, and Movements in Error-based Simulation, HCI International 2024. Lecture Notes in Computer Science, vol 14691., pp. 3–15, Springer, (2024/07)
 1. Nakamura, Y., Aikawa, N., and Tomoto, T.: Analysis of Feedback in Error Visualization Systems Using Thinking Aloud Protocol, HCI International 2024. Lecture Notes in Computer Science, vol 14690., pp. 95–110, Springer, (2024/07)
