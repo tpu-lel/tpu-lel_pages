@@ -25,9 +25,9 @@ title: "Jean Paul Pierret Robles"
 ### 受賞<!-- awards --> 
 1. 人工知能学会 第6回SIAI 産学クロススクエア「ミライをつくるAI人材」 大学研究室展示アワード, (2024/09) (受賞者：相川野々香, 茂木誠拓, 前田新太郎, 中村祐希人, 白髭虹輝, 内山裕太, PIERRET ROBLES JEAN PAUL)
 
-<!--### 査読付学術論文<!-- Journal papers -->-->
+<!--### 査読付学術論文<!-- Journal papers -->
 
-<!--### 国際会議<!-- International Conference -->-->
+<!--### 国際会議<!-- International Conference -->
 
 ### 研究会
 1. Jean Paul Pierret Robles, 相川野々香, 古池謙人, 東本崇仁: 学習者の誤答に基づく誤りの可視化と誤り探索活動の支援環境の設計・開発, 人工知能学会第103回先進的学習科学と工学研究会, pp. 69-76, (2025/03)
