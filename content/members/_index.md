@@ -18,7 +18,7 @@ image_absolute: false
 ## 博士前期課程
 
 - [M2 白髭 虹輝](/members/shirahige/)
-- M1 内山 裕太
+- [M1 内山 裕太](/members/uchiyama/)
 - [M1 PIERRET ROBLES JEAN PAUL](/members/pierret/)
 
 
