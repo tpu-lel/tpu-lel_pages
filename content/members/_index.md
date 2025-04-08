@@ -19,7 +19,7 @@ image_absolute: false
 
 - [M2 白髭 虹輝](/members/shirahige/)
 - M1 内山 裕太
-- M1 PIERRET ROBLES JEAN PAUL
+- [M1 PIERRET ROBLES JEAN PAUL](/members/pierret/)
 
 
 ## 学部
