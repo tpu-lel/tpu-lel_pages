@@ -34,6 +34,7 @@ image_absolute: false
 - B4 田所 拓海
 - B4 中谷 圭吾
 - B4 仲地 琉希
+- B4 藤本 祐也
 - B4 八木 翔平
 - B4 山本 大翔
 
