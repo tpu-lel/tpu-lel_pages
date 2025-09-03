@@ -37,6 +37,7 @@ title: "Jean Paul Pierret Robles"
 3. Jean Paul Pierret Robles, 相川野々香, 古池謙人, 東本崇仁: 誤り探索活動の支援機能を有する力学Error-based Simulation(EBS)の評価, 教育システム情報学会（JSiSE）2024年度第6回研究会, Vol. 39, No. 6, pp. 182–189, (2025/03)
 
 ### 全国大会
+1. Jean Paul Pierret Robles, 相川野々香, 古池謙人, 東本崇仁: Error-based Simulationにおける仮説駆動型誤り探索支援の提案, 教育システム情報学会全国大会講演論文集, pp. 47-48, (2025/08)
 1. Jean Paul Pierret Robles, 相川野々香, 古池謙人, 東本崇仁: 観測器を用いた力学Error-based Simulationシステムにおける誤り箇所探索支援機能の拡張, 教育システム情報学会全国大会講演論文集, pp. 35–36, (2024/08)
 
 ### その他<!-- others -->
