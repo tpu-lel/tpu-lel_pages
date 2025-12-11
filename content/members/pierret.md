@@ -29,12 +29,15 @@ title: "Jean Paul Pierret Robles"
 <!--### 査読付学術論文<!-- Journal papers -->
 
 ### 国際会議<!-- International Conference -->
+1. Pierret Robles, J. P., Nonoka, A., Koike, K., and Tomoto, T.: Scaffolding Causal Understanding Via Parameter Exploration in Newtonian Mechanics, Workshop Proceedings of the International Conference on Computers in Education ICCE 2025, pp. 146–155, (2025/12)
 1. Pierret Robles, J. P., Aikawa, N., Koike, K., and Tomoto, T.: A Learning Support System for Error Exploration in Physics Error-based Simulation (EBS), HCI International 2025. Lecture Notes in Computer Science, vol. 15774, pp. 272–288, Springer, (2025/05)
 
 ### 研究会
+1. 垣元航，Jean Paul Pierret Robles，東本崇仁: プログラミング演習での行き詰まり検出に基づいた生成AIによる助言・能動的声掛け手法の検討, 人工知能学会第105回先進的学習科学と工学研究会, pp. 36-41, (2025/11)
+1. 中谷圭吾，Jean Paul Pierret Robles，東本崇仁: RAGを基盤とする一貫した誤り生成を行うTeachable Agentを用いた学習支援システム, 人工知能学会第105回先進的学習科学と工学研究会, pp. 19-24, (2025/11)
 1. Jean Paul Pierret Robles, 相川野々香, 古池謙人, 東本崇仁: 学習者の誤答に基づく誤りの可視化と誤り探索活動の支援環境の設計・開発, 人工知能学会第103回先進的学習科学と工学研究会, pp. 69-76, (2025/03)
-2. 木村勇太, Jean Paul Pierret Robles, 東本崇仁: 誤りの認識を目的としたギターのコード演奏技術向上支援システムの開発と評価, 教育システム情報学会（JSiSE）2024年度第6回研究会, Vol. 39, No. 6, pp. 204–211, (2025/03)
-3. Jean Paul Pierret Robles, 相川野々香, 古池謙人, 東本崇仁: 誤り探索活動の支援機能を有する力学Error-based Simulation(EBS)の評価, 教育システム情報学会（JSiSE）2024年度第6回研究会, Vol. 39, No. 6, pp. 182–189, (2025/03)
+1. 木村勇太, Jean Paul Pierret Robles, 東本崇仁: 誤りの認識を目的としたギターのコード演奏技術向上支援システムの開発と評価, 教育システム情報学会（JSiSE）2024年度第6回研究会, Vol. 39, No. 6, pp. 204–211, (2025/03)
+1. Jean Paul Pierret Robles, 相川野々香, 古池謙人, 東本崇仁: 誤り探索活動の支援機能を有する力学Error-based Simulation(EBS)の評価, 教育システム情報学会（JSiSE）2024年度第6回研究会, Vol. 39, No. 6, pp. 182–189, (2025/03)
 
 ### 全国大会
 1. Jean Paul Pierret Robles, 相川野々香, 古池謙人, 東本崇仁: Error-based Simulationにおける仮説駆動型誤り探索支援の提案, 教育システム情報学会全国大会講演論文集, pp. 47-48, (2025/08)
@@ -42,7 +45,7 @@ title: "Jean Paul Pierret Robles"
 
 ### その他<!-- others -->
 1. Jean Paul Pierret Robles: 力学EBSにおける差分観察及び解答とふるまいの対応付けを通した誤り箇所探索支援システム, 教育システム情報学会関東支部企画 第5回リサーチ・コ・コ・コモンズ, (2024/12)
-2. Jean Paul Pierret Robles: EBS(Error-based Simulation)における適切なメタファを提示するシステムの検討, 教育システム情報学会関東支部企画 第5回リサーチ・コ・コ・コモンズ, (2023/11)
+1. Jean Paul Pierret Robles: EBS(Error-based Simulation)における適切なメタファを提示するシステムの検討, 教育システム情報学会関東支部企画 第5回リサーチ・コ・コ・コモンズ, (2023/11)
 
 <!--## 実践利用-->
 
