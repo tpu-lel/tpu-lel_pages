@@ -61,6 +61,8 @@ title: "研究業績"
     - Tomoto, T., Ichi, M., Hirashima, T., and Takeuchi, A.: Interactive Environment for Learning by Problem-Posing in Multi-Digit Subtraction, Educational technology research, Vol. 31, No. 1, pp. 107–113, (2008) (Translation) (※2の英訳)
 
 # 国際会議
+1. Maeda, S., Koike, K., and Tomoto, T.: Learning from Others’ Codes in Game-Based Robot Programming: Behavioral Patterns and Outcomes, Proceedings of the International Conference on Computers in Education ICCE 2025, pp. 470–475, (2025/12)
+1. Pierret Robles, J. P., Nonoka, A., Koike, K., and Tomoto, T.: Scaffolding Causal Understanding Via Parameter Exploration in Newtonian Mechanics, Workshop Proceedings of the International Conference on Computers in Education ICCE 2025, pp. 146–155, (2025/12)
 1. Pierret Robles, J. P., Aikawa, N., Koike, K., and Tomoto, T.: A Learning Support System for Error Exploration in Physics Error-based Simulation (EBS), HCI International 2025. Lecture Notes in Computer Science, vol. 15774, pp. 272–288, Springer, (2025/05)
 1. Maeda, S., Koike, K., and Tomoto, T.: Code Sharing Platform for Better Code Writing Through Visual Programming and Trial and Error, HCI International 2025. Lecture Notes in Computer Science, vol. 15774, pp. 239–251, Springer, (2025/05)
 1. Maeda, S., Koike, K., and Tomoto, T.: Code Visualization System for Writing Better Code through Trial and Error in Programming Learning: Classroom Implementation and Practice, Workshop Proceedings of the International Conference on Computers in Education ICCE 2024, pp. 578–584, (2024/11)
@@ -126,6 +128,13 @@ title: "研究業績"
 1. T. Toumoto, T. Horiguchi, T. Hirashima, A. Takeuchi, “Virtual Experimental Environment to Support Learning by Designing Physics Experiment,” World Conf. Educ. Media Technol. 2006, pp. 2443-2445, (2006).
 
 ## 研究会
+1. 八木翔平，前田新太郎，東本崇仁: 英語発音学習の認知的段階を対象とした構成要素の理解を促す学習支援システムの予備的評価, 人工知能学会第105回先進的学習科学と工学研究会, pp. 47-52, (2025/11)
+1. 内山裕太，古池謙人，東本崇仁: 問題構造に基づく構造の部分的再利用を指向した学習支援システムの設計・提案, 人工知能学会第105回先進的学習科学と工学研究会, pp. 42-46, (2025/11)
+1. 垣元航，Jean Paul Pierret Robles，東本崇仁: プログラミング演習での行き詰まり検出に基づいた生成AIによる助言・能動的声掛け手法の検討, 人工知能学会第105回先進的学習科学と工学研究会, pp. 36-41, (2025/11)
+1. 勝井拓和，東本崇仁: 発声時の筋活動の可視化による学習支援システムの予備的評価, 人工知能学会第105回先進的学習科学と工学研究会, pp. 31-35, (2025/11)
+1. 白髭虹輝，前田新太郎，東本崇仁: 問題解決過程に基づくプログラミング文章問題の行き詰まり検知と支援を目的としたフィードバックの設計, 人工知能学会第105回先進的学習科学と工学研究会, pp. 25-30, (2025/11)
+1. 中谷圭吾，Jean Paul Pierret Robles，東本崇仁: RAGを基盤とする一貫した誤り生成を行うTeachable Agentを用いた学習支援システム, 人工知能学会第105回先進的学習科学と工学研究会, pp. 19-24, (2025/11)
+1. 前田新太郎，古池謙人，東本崇仁: 仮想ロボットプログラミングにおけるタスク実行戦略の類似性に基づく他者コード推薦機能の印象調査, 人工知能学会第105回先進的学習科学と工学研究会, pp. 01-06, (2025/11)
 1. Jean Paul Pierret Robles, 相川野々香, 古池謙人, 東本崇仁: 学習者の誤答に基づく誤りの可視化と誤り探索活動の支援環境の設計・開発, 人工知能学会第103回先進的学習科学と工学研究会, pp. 69-76, (2025/03)
 1. 古池謙人, 東本崇仁: 非可観測概念の試行錯誤的学びを指向した誤りの可観測化フィードバック設計フレームワークELMERの提案, 人工知能学会第103回先進的学習科学と工学研究会, pp. 57-62, (2025/03)
 1. 前田新太郎, 古池謙人, 東本崇仁: 仮想ロボットプログラミングにおけるタスク実行戦略の類似性を考慮した他者コード共有機能の実装と評価, 人工知能学会第103回先進的学習科学と工学研究会, pp. 39-44, (2025/03)
