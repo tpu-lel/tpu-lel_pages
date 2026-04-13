@@ -12,31 +12,33 @@ image_absolute: false
 - [共同研究員 古池 謙人 (神奈川大学 助教)](https://koike.app/)
 
 ## 博士後期課程
-- [D3 茂木 誠拓](/members/mogi/)
-- [D3 前田 新太郎](https://shintaro.maeda.app/)
+- [D4 前田 新太郎](https://shintaro.maeda.app/)
 
 ## 博士前期課程
 
-- [M2 白髭 虹輝](/members/shirahige/)
-- [M1 内山 裕太](https://spica-65536.github.io/my-homepage/)
-- [M1 PIERRET ROBLES JEAN PAUL](/members/pierret/)
-
+- [M2 内山 裕太](https://spica-65536.github.io/my-homepage/)
+- [M2 PIERRET ROBLES JEAN PAUL](/members/pierret/)
+- M1 垣元 航
+- M1 勝井 拓和
+- M1 中谷 圭吾
+- M1 八木 翔平
 
 ## 学部
 
-- B4 小野 倫聖
-- B4 垣元 航
-- B4 勝井 拓和
-- B4 小林 倭
-- B4 紫関 秀弥
-- B4 新川 征治
-- B4 高野 隼吾
-- B4 田所 拓海
-- B4 中谷 圭吾
-- B4 仲地 琉希
-- B4 藤本 祐也
-- B4 八木 翔平
-- B4 山本 大翔
+B4 石井　雄大
+B4 小村　翼
+B4 栗原 明日輝
+B4 佐野 一悟
+B4 鈴木 大翔
+B4 杣本 晴紀
+B4 宋 长姝
+B4 高橋　啓汰
+B4 Thapa Seijal
+B4 田村　拓夢
+B4 長谷川 唯人
+B4 藤島 秀斗
+B4 結城　開地
+B4 三田　基生
 
 ## 博士課程修了生
 
