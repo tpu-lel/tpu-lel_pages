@@ -19,6 +19,7 @@ toc: true
 1. eラーニング/eテスティング（テスト時の学習者の誤りの可視化の効用），教育工学選書II－１，（ミネルヴァ書房），pp.157-172，2016/06/20
 
 ## 査読付学術論文
+1. 前田新太郎, 古池謙人, 東本崇仁: プログラミング学習におけるコード洗練活動を促す振舞い類似度に基づく他者コード推薦, 人工知能学会, accepted, (2026)
 1. 前田新太郎, 古池謙人, 東本崇仁: 「より良いコード」への試行錯誤を促すゲームタスク型仮想ロボットプログラミングの提案と授業実践, 電子情報通信学会論文誌 D, Vol. J109-D, No. 3, pp.91-103, (2026/03)
 2. 北村光芳, 田中龍馬, 東本崇仁: サーバ構築学習の理解度を向上する自動調査システムと自己評価にもとづくフィードバックシステムの開発, 電子情報通信学会論文誌 B, Vol. J107-B, No. 9, pp.461-470, (2024/9) 
 3. Aikawa, N., Maeda, S., Mogi, T., Koike, K., Tomoto, T., Imai, I., Horiguchi, T., and Hirashima, T.: Classroom implementation of an auxiliary problem presentation system for mechanics adapted to learners’ errors, Research and Practice in Technology Enhanced Learning, Vol. 19, Article 26, pp. 1-28 (2024/01)
