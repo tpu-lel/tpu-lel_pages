@@ -1,11 +1,23 @@
 {{ define "body_classes" }}page-publications-single{{ end }}
 
 {{ define "main" }}
-<div class="intro">
+<div class="intro intro-small">
   <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-10">
-        {{ .RawContent | markdownify }}
+    <div class="row">
+      <div class="col-12">
+        <h1>{{ .Title }}</h1>
+      </div>
+    </div>
+
+    <div class="row layout-with-toc">
+      <div class="col-12 col-md-3 toc-col">
+        <div class="toc-wrapper">
+          <div class="toc-title">CATEGORIES</div>
+          {{ .TableOfContents }}
+        </div>
+      </div>
+      <div class="col-12 col-md-9 content pub-content">
+        {{ .Content }}
       </div>
     </div>
   </div>
@@ -13,4 +25,46 @@
 {{ end }}
 
 {{ define "footer_js" }}
+<script>
+(function () {
+  var sections = document.querySelectorAll('.pub-content h2');
+  sections.forEach(function (h) {
+    var n = h.nextElementSibling;
+    while (n && n.tagName !== 'OL' && n.tagName !== 'UL' && n.tagName !== 'H2' && n.tagName !== 'H3') {
+      n = n.nextElementSibling;
+    }
+    var count = 0;
+    var cur = h.nextElementSibling;
+    while (cur && cur.tagName !== 'H2') {
+      if (cur.tagName === 'OL' || cur.tagName === 'UL') {
+        count += cur.children.length;
+      }
+      cur = cur.nextElementSibling;
+    }
+    if (count > 0) {
+      var badge = document.createElement('span');
+      badge.className = 'pub-count';
+      badge.textContent = count;
+      h.appendChild(badge);
+    }
+  });
+
+  document.querySelectorAll('.pub-content h3').forEach(function (h) {
+    var cur = h.nextElementSibling;
+    var count = 0;
+    while (cur && cur.tagName !== 'H2' && cur.tagName !== 'H3') {
+      if (cur.tagName === 'OL' || cur.tagName === 'UL') {
+        count += cur.children.length;
+      }
+      cur = cur.nextElementSibling;
+    }
+    if (count > 0) {
+      var badge = document.createElement('span');
+      badge.className = 'pub-count';
+      badge.textContent = count;
+      h.appendChild(badge);
+    }
+  });
+})();
+</script>
 {{ end }}

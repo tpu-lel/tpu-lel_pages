@@ -1,0 +1,184 @@
+.research-figs {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.4rem;
+  margin: 1.5rem 0 2rem;
+
+  @include media-breakpoint-up(md) {
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  }
+
+  &.cols-1 {
+    grid-template-columns: 1fr;
+  }
+
+  figure {
+    margin: 0;
+    background: $white;
+    border: 1px solid $border-soft;
+    border-radius: 8px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+  }
+
+  figure img {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 0;
+    padding: 1rem;
+    background: $white-offset;
+    object-fit: contain;
+    flex-shrink: 0;
+  }
+
+  figcaption {
+    padding: 0.8rem 1rem;
+    color: $grey;
+    font-size: 0.85rem;
+    line-height: 1.6;
+    background: $white;
+    border-top: 1px solid $border-soft;
+    flex: 1;
+
+    p {
+      margin-bottom: 0.4rem;
+      &:last-child { margin-bottom: 0; }
+    }
+  }
+}
+
+.research-lead {
+  font-size: 1.5rem;
+  font-weight: $font-bolder-weight;
+  color: $black;
+  line-height: 1.5;
+  margin: 1rem 0 1.5rem;
+
+  u {
+    text-decoration: none;
+    background: linear-gradient(transparent 65%, lighten($primary, 55%) 65%);
+    padding: 0 0.1em;
+  }
+}
+
+.concept-cards {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  margin: 1.6rem 0 1rem;
+}
+
+.concept-card {
+  background: $accent-soft;
+  border-left: 3px solid $primary;
+  padding: 0.85rem 1.2rem;
+  border-radius: 0 6px 6px 0;
+  font-size: 1rem;
+  line-height: 1.7;
+  color: $black;
+  position: relative;
+
+  &::before {
+    content: '“';
+    position: absolute;
+    left: -0.05em;
+    top: -0.7rem;
+    font-size: 2.4rem;
+    color: rgba($primary, 0.25);
+    font-family: serif;
+    line-height: 1;
+  }
+}
+
+.research-hook {
+  font-size: 1.25rem;
+  font-weight: $font-bolder-weight;
+  color: $primary;
+  text-align: center;
+  margin: 1.2rem 0 2.5rem;
+  letter-spacing: 0.04em;
+}
+
+.research-summary {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 0.9rem;
+  align-items: start;
+  margin: 1.4rem 0;
+  padding: 0.9rem 1.2rem;
+  background: linear-gradient(135deg, $accent-soft 0%, lighten($accent-soft, 2%) 100%);
+  border: 1px solid $border-soft;
+  border-radius: 8px;
+
+  @include media-breakpoint-down(sm) {
+    grid-template-columns: 1fr;
+    gap: 0.4rem;
+  }
+
+  p {
+    margin: 0;
+    color: $black;
+    font-weight: $font-bolder-weight;
+    line-height: 1.7;
+    font-size: 0.95rem;
+  }
+}
+
+.research-summary-label {
+  align-self: start;
+  font-family: $font-family-heading;
+  font-weight: $font-bolder-weight;
+  font-size: 0.7rem;
+  letter-spacing: 0.1em;
+  color: $white;
+  background: $primary;
+  padding: 0.25rem 0.7rem;
+  border-radius: 999px;
+  white-space: nowrap;
+}
+
+.research-cases {
+  counter-reset: case-counter;
+
+  h3 {
+    counter-increment: case-counter;
+    position: relative;
+    padding-top: 1.8rem;
+    padding-left: 3rem;
+    margin-top: 2.8rem;
+    margin-bottom: 1rem;
+    font-size: 1.2rem;
+    color: $black;
+    line-height: 1.45;
+
+    &::before {
+      content: counter(case-counter, decimal-leading-zero);
+      position: absolute;
+      left: 0;
+      top: 1.4rem;
+      font-family: $font-family-heading;
+      font-weight: $font-bolder-weight;
+      font-size: 1.5rem;
+      color: $primary;
+      line-height: 1;
+      letter-spacing: 0.02em;
+    }
+
+    &::after {
+      content: '';
+      position: absolute;
+      left: 3rem;
+      top: 0;
+      width: 3rem;
+      height: 3px;
+      background: $primary;
+      border-radius: 2px;
+    }
+
+    &:first-of-type {
+      margin-top: 1.5rem;
+    }
+  }
+}

@@ -1,21 +1,20 @@
 ---
 title: "東本 崇仁"
 image: 'images/members/tomoto.jpg'
-image_absolute: false
-image_hide_on_mobile: true
+toc: true
+profile:
+  name: "東本 崇仁"
+  name_kana: "とうもと たかひと"
+  position: "教授"
+  degree: "博士（工学）"
+  affiliation_url: "https://www.it-chiba.ac.jp/"
+  affiliation:
+    - "千葉工業大学 情報変革科学部 認知情報科学科"
+    - "千葉工業大学 情報科学部 情報ネットワーク学科"
+  email_main: "tomoto☆net.it-chiba.ac.jp"
+  email_sub: "toumotan☆yahoo.co.jp"
+  email_note: "☆を@に変更してください"
 ---
-
-## 基本情報
-
-- 名前：東本 崇仁（とうもと たかひと）
-- 所属：[千葉工業大学 情報変革科学部 認知情報科学科 / 千葉工業大学 情報科学部 情報ネットワーク学科](https://www.it-chiba.ac.jp/)
-- 職位：教授
-- 学位：博士（工学）
-- e-Mail: tomoto☆net.it-chiba.ac.jp
-- sub e-Mail: toumotan☆yahoo.co.jp
-- ☆を@ に変更して下さい
-
-|ABSTRACT|
 
 ## 略歴
 * 2024年4月～ 千葉工業大学情報変革科学部 教授

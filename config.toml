@@ -8,6 +8,10 @@ title = "Tomoto Lab"
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+    ordered = false
 
 [module]
   [module.hugoVersion]
@@ -34,10 +38,12 @@ title = "Tomoto Lab"
 
   [params.colors]
     primary = "#008037"
-    black = "#49757a"
+    black = "#1f3a3d"
     white = "#ffffff"
-    white_offset = "#f6f7ff"
-    grey = "#015c40"
+    white_offset = "#f4f7f5"
+    grey = "#3a4a47"
+    accent_soft = "#e8f1ec"
+    border_soft = "#dde6e0"
 
   [params.footer]
     copyright_text = '© Takahito Tomoto Laboratory.'

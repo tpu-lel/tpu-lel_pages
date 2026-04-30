@@ -1,11 +1,13 @@
 ---
 title: "研究業績"
+toc: true
 ---
 
-# 巻頭言
+## 巻頭言
+
 1. 東本崇仁: プログラミング教育必修化の意義と現場での教育, 教育システム情報学会誌, Vol. 34, No. 2, pp. 79–81, (2017)
 
-# 解説
+## 解説
 1. 田中孝治, 東本崇仁, 光原弘幸: 教育システム情報学研究の知識体系化を目指して (特集 我々の教育システム情報学マップ：問いの体系化の共有に向けて), 教育システム情報学会誌, Vol. 40, No. 2, pp. 120-130, (2023)
 1. 東本崇仁: 私の教育システム情報学マップ…を作るに至るまでの話, 教育システム情報学会誌, Vol. 39, No. 2, pp. 179-186, (2022)
 1. 東本崇仁, 柏原昭博: 学術界と産業界の相互理解イベント：ラーニングイノベーショングランプリ, 教育システム情報学会誌, Vol. 38, No. 3, pp. 190-198, (2021)
@@ -13,10 +15,10 @@ title: "研究業績"
 1. 東本崇仁: 知識の構造化のための外化と誤りの可視化(<特集>学習科学と学習工学のフロンティア-私の"学習"研究-(後編)), 人工知能学会誌, Vol. 30, No. 4, pp. 506–507, (2015)
 1. 真嶋由貴恵, 合田美子, 小島一晃, 東本崇仁, 林雄介: 「医療・看護・福祉分野におけるICT利用教育／ICTを活用した教育の質保証」, 教育システム情報学会誌, Vol. 31, No. 1, pp. 5–7, (2014)
 
-# 書籍
+## 書籍
 1. eラーニング/eテスティング（テスト時の学習者の誤りの可視化の効用），教育工学選書II－１，（ミネルヴァ書房），pp.157-172，2016/06/20
 
-# 査読付学術論文
+## 査読付学術論文
 1. 前田新太郎, 古池謙人, 東本崇仁: 「より良いコード」への試行錯誤を促すゲームタスク型仮想ロボットプログラミングの提案と授業実践, 電子情報通信学会論文誌 D, Vol. J109-D, No. 3, pp.91-103, (2026/03)
 2. 北村光芳, 田中龍馬, 東本崇仁: サーバ構築学習の理解度を向上する自動調査システムと自己評価にもとづくフィードバックシステムの開発, 電子情報通信学会論文誌 B, Vol. J107-B, No. 9, pp.461-470, (2024/9) 
 3. Aikawa, N., Maeda, S., Mogi, T., Koike, K., Tomoto, T., Imai, I., Horiguchi, T., and Hirashima, T.: Classroom implementation of an auxiliary problem presentation system for mechanics adapted to learners’ errors, Research and Practice in Technology Enhanced Learning, Vol. 19, Article 26, pp. 1-28 (2024/01)
@@ -61,7 +63,7 @@ title: "研究業績"
 41. 東本崇仁, 市将治, 平嶋宗, 竹内章: 多桁減算を対象とした作問学習支援環境の設計・開発, 日本教育工学会論文誌, Vol. 31, No. 1, pp. 61–68, (2007) ※2
     - Tomoto, T., Ichi, M., Hirashima, T., and Takeuchi, A.: Interactive Environment for Learning by Problem-Posing in Multi-Digit Subtraction, Educational technology research, Vol. 31, No. 1, pp. 107–113, (2008) (Translation) (※2の英訳)
 
-# 国際会議
+## 国際会議
 1. Maeda, S., Koike, K., and Tomoto, T.: Learning from Others’ Codes in Game-Based Robot Programming: Behavioral Patterns and Outcomes, Proceedings of the International Conference on Computers in Education ICCE 2025, pp. 470–475, (2025/12)
 1. Pierret Robles, J. P., Nonoka, A., Koike, K., and Tomoto, T.: Scaffolding Causal Understanding Via Parameter Exploration in Newtonian Mechanics, Workshop Proceedings of the International Conference on Computers in Education ICCE 2025, pp. 146–155, (2025/12)
 1. Pierret Robles, J. P., Aikawa, N., Koike, K., and Tomoto, T.: A Learning Support System for Error Exploration in Physics Error-based Simulation (EBS), HCI International 2025. Lecture Notes in Computer Science, vol. 15774, pp. 272–288, Springer, (2025/05)
@@ -305,7 +307,7 @@ title: "研究業績"
 1. 匂坂洋介, 東本崇仁, 平嶋宗, “式が成立する状況を作図させることによる力学学習の支援環境,” 電子情報通信学会技術研究報告, vol. 105, no. 336, pp. 23-28, (2005).
 1. 東本崇仁, 平嶋宗, 堀口知也, “仮想実験環境における学習者による仮説設定と仮説に基づく実験評価 (「e-Learningにおける学習支援とコンテンツ開発」および一般),” 先進的学習科学と工学研究会, vol. 41, pp. 37-42, (2004).
 
-# 全国大会
+## 全国大会
 1. 八木翔平, 前田新太郎, 東本崇仁: 英語発音練習の認知的段階を重視した学習支援システムの提案, 教育システム情報学会全国大会講演論文集, pp. 313-314, (2025/08)
 1. 勝井拓和, 東本崇仁: 歌唱時の筋活動の可視化による学習支援システムの提案, 教育システム情報学会全国大会講演論文集, pp. 261-262, (2025/08)
 1. 中谷圭吾, Jean Paul Pierret Robles, 東本崇仁: バグモデルRAGを用いたTeachable Agentの提案, 教育システム情報学会全国大会講演論文集, pp. 205-206, (2025/08)

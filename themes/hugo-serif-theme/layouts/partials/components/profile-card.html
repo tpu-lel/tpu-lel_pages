@@ -1,0 +1,37 @@
+{{- $p := .Params.profile -}}
+<aside class="profile-card">
+  {{- if .Params.image }}
+  <img class="profile-photo" alt="{{ $p.name | default .Title }}" src="{{ .Params.image | relURL }}" />
+  {{- end }}
+  <h2 class="profile-name">{{ $p.name | default .Title }}</h2>
+  {{- with $p.name_kana }}<p class="profile-name-kana">{{ . }}</p>{{ end }}
+
+  <dl>
+    {{- with $p.position }}
+    <dt>POSITION</dt>
+    <dd>{{ . }}</dd>
+    {{- end }}
+    {{- with $p.degree }}
+    <dt>DEGREE</dt>
+    <dd>{{ . }}</dd>
+    {{- end }}
+    {{- with $p.affiliation }}
+    <dt>AFFILIATION</dt>
+    <dd>
+      {{- $url := $p.affiliation_url -}}
+      {{- if reflect.IsSlice . -}}
+        {{- range $i, $a := . -}}
+          {{ if $i }}<br>{{ end }}
+          {{- if $url }}<a href="{{ $url }}">{{ $a }}</a>{{ else }}{{ $a }}{{ end -}}
+        {{- end -}}
+      {{- else -}}
+        {{- if $url }}<a href="{{ $url }}">{{ . }}</a>{{ else }}{{ . }}{{ end -}}
+      {{- end -}}
+    </dd>
+    {{- end }}
+    {{- with $p.email_main }}
+    <dt>E-MAIL</dt>
+    <dd>{{ . }}{{ with $p.email_sub }}<br>{{ . }}{{ end }}{{ with $p.email_note }}<br><small>{{ . }}</small>{{ end }}</dd>
+    {{- end }}
+  </dl>
+</aside>

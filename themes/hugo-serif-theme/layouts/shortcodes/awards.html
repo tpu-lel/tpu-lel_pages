@@ -1,0 +1,41 @@
+{{- $awards := site.Data.awards -}}
+{{- $recentCount := .Get "recent" | default 5 | int -}}
+{{- $recent := first $recentCount $awards -}}
+{{- $archive := after $recentCount $awards -}}
+<ul class="awards-list">
+{{- range $recent }}
+  <li class="award-item">
+    <div class="award-date">{{ .date }}</div>
+    <div class="award-body">
+      <span class="award-title">{{ .title }}</span>
+      {{- with .recipient }}
+      <span class="award-recipient">受賞者：{{ . }}</span>
+      {{- end }}
+      {{- with .cite }}
+      <span class="award-cite">{{ . }}</span>
+      {{- end }}
+    </div>
+  </li>
+{{- end }}
+</ul>
+{{- if $archive }}
+<details class="awards-archive">
+  <summary><span class="awards-archive-label">過去の受賞をすべて表示</span><span class="awards-archive-count">{{ len $archive }}件</span></summary>
+  <ul class="awards-list awards-list-compact">
+  {{- range $archive }}
+    <li class="award-item">
+      <div class="award-date">{{ .date }}</div>
+      <div class="award-body">
+        <span class="award-title">{{ .title }}</span>
+        {{- with .recipient }}
+        <span class="award-recipient">受賞者：{{ . }}</span>
+        {{- end }}
+        {{- with .cite }}
+        <span class="award-cite">{{ . }}</span>
+        {{- end }}
+      </div>
+    </li>
+  {{- end }}
+  </ul>
+</details>
+{{- end }}

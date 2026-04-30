@@ -1,0 +1,10 @@
+{{- $cards := site.Data.themes -}}
+<div class="theme-cards">
+{{- range $cards }}
+  <a class="theme-card" href="{{ .href }}">
+    <span class="theme-num">{{ .num }}</span>
+    <span class="theme-title">{{ .title }}</span>
+    <span class="theme-body">{{ .body }}</span>
+  </a>
+{{- end }}
+</div>

@@ -1,0 +1,12 @@
+{{- $role := .Get "role" -}}
+{{- $grants := index site.Data.grants $role -}}
+<ol class="grants-list grants-list-reset">
+{{- range $grants }}
+  <li>
+    <strong>{{ .title }}</strong>{{ if or .period .type .code }}<br>{{ end }}
+    {{- with .period }}<span class="grant-period">{{ . }}</span>{{ end }}
+    {{- with .type }}<span class="grant-type">／{{ . }}</span>{{ end }}
+    {{- with .code }}<span class="grant-code"> {{ . }}</span>{{ end }}
+  </li>
+{{- end }}
+</ol>

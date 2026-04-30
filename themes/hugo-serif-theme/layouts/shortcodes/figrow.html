@@ -1,0 +1,4 @@
+{{- $cols := .Get "cols" | default "auto" -}}
+<div class="research-figs{{ if eq $cols "1" }} cols-1{{ end }}">
+{{ .Inner }}
+</div>

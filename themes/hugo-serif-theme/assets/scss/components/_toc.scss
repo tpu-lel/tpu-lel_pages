@@ -1,0 +1,61 @@
+.toc-wrapper {
+  position: sticky;
+  top: 1.5rem;
+  max-height: calc(100vh - 3rem);
+  overflow-y: auto;
+  padding: 1.2rem 1rem;
+  background: $accent-soft;
+  border-radius: 8px;
+  font-size: 0.9rem;
+
+  .toc-title {
+    font-size: 0.8rem;
+    font-weight: $font-bolder-weight;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: $primary;
+    margin-bottom: 0.6rem;
+  }
+
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  li {
+    margin-bottom: 0.35rem;
+    line-height: 1.4;
+  }
+
+  ul ul {
+    margin-top: 0.3rem;
+    margin-bottom: 0.4rem;
+    padding-left: 0.8rem;
+    border-left: 1px solid $border-soft;
+
+    li {
+      font-size: 0.85rem;
+    }
+  }
+
+  a {
+    color: $grey;
+    text-decoration: none;
+    display: inline-block;
+    padding: 0.1rem 0;
+
+    &:hover {
+      color: $primary;
+      text-decoration: none;
+    }
+  }
+}
+
+.layout-with-toc {
+  .toc-col {
+    @include media-breakpoint-down(md) {
+      margin-bottom: 2rem;
+    }
+  }
+}

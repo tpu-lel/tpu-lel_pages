@@ -1,0 +1,24 @@
+- num: "01"
+  title: "誤りの可視化（EBS）"
+  href: "/research/#case-ebs"
+  body: "学習者の解答が「もし正しいとしたら」何が起きるかをコンピュータが可視化し、自ら誤りに気付く学びを促します。"
+
+- num: "02"
+  title: "Teachable Agent (TAME)"
+  href: "/research/#case-tame"
+  body: "学習者がコンピュータに「教える」ことで自身の理解を深める、教えられるエージェントを開発しています。"
+
+- num: "03"
+  title: "プログラミング部品学習"
+  href: "/research/#case-brocs"
+  body: "「部品」としての知識獲得とその拡張を支援し、構造的なプログラミングスキル習得を目指します。"
+
+- num: "04"
+  title: "コード共有プラットフォーム"
+  href: "/research/#case-robot"
+  body: "ゲーム形式のロボットプログラミングを通じ、他者のコードから良い点を学び合う場を提供します。"
+
+- num: "05"
+  title: "プログラムトレース演習"
+  href: "/research/#case-trace"
+  body: "行ごとの実行順序と意味を学び、誤りを可視化することでプログラムの振る舞いを深く理解します。"

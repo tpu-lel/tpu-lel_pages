@@ -1,0 +1,185 @@
+.grants-section {
+  margin-bottom: 2rem;
+
+  h3 {
+    margin-top: 1.4rem;
+    margin-bottom: 0.6rem;
+    font-size: 1.05rem;
+  }
+}
+
+ol.grants-list {
+  list-style: none;
+  margin: 0 0 1.5rem;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.4rem;
+
+  @include media-breakpoint-up(md) {
+    grid-template-columns: 1fr 1fr;
+    column-gap: 0.6rem;
+  }
+
+  li {
+    counter-increment: grant-counter;
+    position: relative;
+    padding: 0.55rem 0.8rem 0.55rem 2.4rem;
+    background: $white;
+    border: 1px solid $border-soft;
+    border-radius: 5px;
+    font-size: 0.88rem;
+    line-height: 1.55;
+    color: $grey;
+    margin: 0;
+
+    &::before {
+      content: counter(grant-counter);
+      position: absolute;
+      left: 0.6rem;
+      top: 0.55rem;
+      font-family: $font-family-heading;
+      font-weight: $font-bolder-weight;
+      color: $primary;
+      font-size: 0.85rem;
+      width: 1.5rem;
+      text-align: right;
+    }
+
+    strong {
+      color: $black;
+      font-weight: $font-bolder-weight;
+      display: inline-block;
+      margin-bottom: 0.2rem;
+      line-height: 1.5;
+    }
+  }
+
+  .grant-period {
+    color: $primary;
+    font-weight: $font-bolder-weight;
+    font-size: 0.78rem;
+    letter-spacing: 0.02em;
+  }
+
+  .grant-type {
+    color: lighten($grey, 5%);
+    font-size: 0.78rem;
+  }
+
+  .grant-code {
+    color: lighten($grey, 15%);
+    font-size: 0.75rem;
+    font-family: $font-family-base;
+    font-feature-settings: "tnum";
+  }
+}
+
+.grants-list-reset {
+  counter-reset: grant-counter;
+}
+
+.lead-paragraph {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: $black;
+  margin-bottom: 0.6rem;
+  font-weight: 400;
+
+  strong {
+    color: $primary;
+    font-weight: $font-bolder-weight;
+  }
+}
+
+.lab-tagline {
+  display: inline-block;
+  background: $accent-soft;
+  color: $primary;
+  font-weight: $font-bolder-weight;
+  padding: 0.4rem 0.8rem;
+  border-radius: 4px;
+  font-size: 0.85rem;
+  letter-spacing: 0.04em;
+  margin-bottom: 1rem;
+}
+
+.theme-cards {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.7rem;
+  margin: 1.2rem 0 2rem;
+
+  @include media-breakpoint-up(sm) {
+    grid-template-columns: 1fr 1fr;
+  }
+
+  @include media-breakpoint-up(lg) {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.theme-card {
+  display: flex;
+  flex-direction: column;
+  padding: 1.1rem 1.1rem 1.2rem;
+  background: $white;
+  border: 1px solid $border-soft;
+  border-radius: 8px;
+  text-decoration: none !important;
+  transition: border-color 0.2s ease, transform 0.2s ease, box-shadow 0.2s ease;
+  position: relative;
+  overflow: hidden;
+
+  &::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 3px;
+    background: $primary;
+    transform: scaleY(0);
+    transform-origin: top;
+    transition: transform 0.2s ease;
+  }
+
+  &:hover {
+    border-color: $primary;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.06);
+    text-decoration: none !important;
+
+    &::before {
+      transform: scaleY(1);
+    }
+
+    .theme-title {
+      color: $primary;
+    }
+  }
+
+  .theme-num {
+    font-family: $font-family-heading;
+    font-weight: $font-bolder-weight;
+    font-size: 0.75rem;
+    letter-spacing: 0.1em;
+    color: $primary;
+    margin-bottom: 0.4rem;
+  }
+
+  .theme-title {
+    font-size: 1.05rem;
+    font-weight: $font-bolder-weight;
+    color: $black;
+    margin-bottom: 0.5rem;
+    line-height: 1.4;
+    transition: color 0.2s ease;
+  }
+
+  .theme-body {
+    font-size: 0.85rem;
+    line-height: 1.6;
+    color: $grey;
+  }
+}

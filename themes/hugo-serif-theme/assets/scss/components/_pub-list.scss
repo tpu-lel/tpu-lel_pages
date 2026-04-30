@@ -1,0 +1,102 @@
+.pub-content {
+  h1 {
+    margin-top: 2.5rem;
+    margin-bottom: 1.2rem;
+    padding-bottom: 0.5rem;
+    border-bottom: 2px solid $accent-soft;
+    font-size: 1.5rem;
+    color: $black;
+    display: flex;
+    align-items: baseline;
+    gap: 0.6rem;
+
+    &:first-child {
+      margin-top: 0;
+    }
+
+    @include media-breakpoint-up(md) {
+      font-size: 1.7rem;
+    }
+  }
+
+  h2 {
+    position: relative;
+    padding-left: 0.9rem;
+    margin-top: 2.4rem;
+    margin-bottom: 1rem;
+    font-size: 1.25rem;
+    color: $black;
+    display: flex;
+    align-items: baseline;
+    gap: 0.6rem;
+    flex-wrap: wrap;
+
+    &::before {
+      content: '';
+      position: absolute;
+      left: 0;
+      top: 0.35em;
+      bottom: 0.35em;
+      width: 4px;
+      background: $primary;
+      border-radius: 2px;
+    }
+  }
+
+  h3 {
+    margin-top: 1.6rem;
+    margin-bottom: 0.6rem;
+    font-size: 1.05rem;
+    color: $primary;
+  }
+
+  ol:not([class]) {
+    list-style: none;
+    counter-reset: pub-counter;
+    margin: 0 0 1.8rem;
+    padding: 0;
+  }
+
+  ol:not([class]) li {
+    counter-increment: pub-counter;
+    list-style: none;
+    position: relative;
+    padding: 0.5rem 0 0.5rem 2.6rem;
+    margin: 0 0 0.2rem;
+    font-size: 0.92rem;
+    line-height: 1.65;
+    color: $grey;
+    border-bottom: 1px solid $border-soft;
+
+    &::before {
+      content: counter(pub-counter);
+      position: absolute;
+      left: 0;
+      top: 0.5rem;
+      font-family: $font-family-heading;
+      font-weight: $font-bolder-weight;
+      color: $primary;
+      font-size: 0.8rem;
+      width: 2rem;
+      text-align: right;
+    }
+
+    &:last-child {
+      border-bottom: none;
+    }
+  }
+}
+
+.pub-count {
+  display: inline-block;
+  background: $accent-soft;
+  color: $primary;
+  font-size: 0.75rem;
+  font-weight: $font-bolder-weight;
+  padding: 0.15rem 0.6rem;
+  border-radius: 999px;
+  letter-spacing: 0.04em;
+  font-family: $font-family-heading;
+  vertical-align: middle;
+  line-height: 1.4;
+}

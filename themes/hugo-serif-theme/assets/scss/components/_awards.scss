@@ -1,0 +1,175 @@
+ul.awards-list {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  margin: 1.5rem 0 2rem;
+  padding: 0;
+  list-style: none;
+
+  .award-item {
+    display: grid;
+    grid-template-columns: 7rem 1fr;
+    gap: 1rem;
+    padding: 0.9rem 1rem;
+    background: $white;
+    border: 1px solid $border-soft;
+    border-left: 3px solid $primary;
+    border-radius: 6px;
+    transition: box-shadow 0.15s ease, transform 0.15s ease;
+
+    &:hover {
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.04);
+    }
+
+    @include media-breakpoint-down(sm) {
+      grid-template-columns: 1fr;
+      gap: 0.3rem;
+    }
+  }
+
+  .award-date {
+    font-family: $font-family-heading;
+    font-weight: $font-bolder-weight;
+    color: $primary;
+    font-size: 0.9rem;
+    letter-spacing: 0.02em;
+    line-height: 1.4;
+    padding-top: 0.1rem;
+  }
+
+  .award-body {
+    color: $black;
+    font-size: 0.95rem;
+    line-height: 1.6;
+  }
+
+  .award-title {
+    font-weight: $font-bolder-weight;
+    color: $black;
+    display: block;
+    margin-bottom: 0.15rem;
+  }
+
+  .award-recipient {
+    color: $grey;
+    font-size: 0.88rem;
+    display: block;
+    margin-bottom: 0.2rem;
+  }
+
+  .award-cite {
+    color: lighten($grey, 10%);
+    font-size: 0.82rem;
+    line-height: 1.55;
+    display: block;
+    font-style: italic;
+  }
+}
+
+ul.awards-list-compact {
+  margin: 0;
+  gap: 0.25rem;
+
+  .award-item {
+    grid-template-columns: 5.5rem 1fr;
+    padding: 0.45rem 0.8rem;
+    border-left-width: 2px;
+    background: transparent;
+    border-color: transparent transparent transparent $primary;
+    border-radius: 0;
+    border-bottom: 1px dashed $border-soft;
+
+    @include media-breakpoint-down(sm) {
+      grid-template-columns: 1fr;
+      gap: 0.1rem;
+    }
+
+    &:hover {
+      box-shadow: none;
+      background: $accent-soft;
+    }
+  }
+
+  .award-date {
+    font-size: 0.78rem;
+    padding-top: 0;
+  }
+
+  .award-title {
+    font-size: 0.85rem;
+    margin-bottom: 0;
+    line-height: 1.5;
+  }
+
+  .award-recipient {
+    display: inline;
+    font-size: 0.78rem;
+    color: lighten($grey, 5%);
+
+    &::before {
+      content: ' / ';
+      margin: 0 0.2em;
+      color: lighten($grey, 25%);
+    }
+  }
+
+  .award-cite {
+    display: none;
+  }
+}
+
+details.awards-archive {
+  margin: 0.4rem 0 2rem;
+
+  > summary {
+    cursor: pointer;
+    list-style: none;
+    padding: 0.55rem 0.9rem;
+    background: $accent-soft;
+    color: $primary;
+    font-weight: $font-bolder-weight;
+    font-size: 0.85rem;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    transition: background 0.15s ease;
+    user-select: none;
+
+    &::-webkit-details-marker {
+      display: none;
+    }
+
+    &::before {
+      content: '▶';
+      font-size: 0.65rem;
+      transition: transform 0.2s ease;
+      display: inline-block;
+    }
+
+    &:hover {
+      background: darken($accent-soft, 3%);
+    }
+  }
+
+  &[open] > summary::before {
+    transform: rotate(90deg);
+  }
+
+  .awards-archive-label {
+    flex: 1;
+  }
+
+  .awards-archive-count {
+    font-size: 0.75rem;
+    background: $primary;
+    color: $white;
+    padding: 0.1rem 0.55rem;
+    border-radius: 999px;
+    letter-spacing: 0.04em;
+  }
+
+  > ul.awards-list-compact {
+    margin-top: 0.6rem;
+  }
+}

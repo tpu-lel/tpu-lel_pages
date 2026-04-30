@@ -1,0 +1,53 @@
+.profile-card {
+  background: $white;
+  border: 1px solid $border-soft;
+  border-radius: 10px;
+  padding: 1.4rem;
+  margin-bottom: 1.5rem;
+
+  .profile-photo {
+    width: 100%;
+    border-radius: 8px;
+    margin-bottom: 1rem;
+    display: block;
+  }
+
+  .profile-name {
+    font-size: 1.4rem;
+    font-weight: $font-bolder-weight;
+    color: $black;
+    margin: 0;
+    line-height: 1.2;
+  }
+
+  .profile-name-kana {
+    font-size: 0.85rem;
+    color: $grey;
+    margin-top: 0.2rem;
+    margin-bottom: 1rem;
+  }
+
+  dl {
+    margin: 0;
+    font-size: 0.9rem;
+  }
+
+  dt {
+    font-size: 0.72rem;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    color: $primary;
+    font-weight: $font-bolder-weight;
+    margin-top: 0.7rem;
+  }
+
+  dd {
+    margin: 0.15rem 0 0 0;
+    color: $grey;
+    line-height: 1.5;
+
+    a {
+      word-break: break-all;
+    }
+  }
+}
