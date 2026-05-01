@@ -49,56 +49,127 @@
   }
 }
 
-.research-lead {
-  font-size: 1.5rem;
+.intro p.research-lead,
+p.research-lead {
+  font-size: 1.4rem;
   font-weight: $font-bolder-weight;
   color: $black;
-  line-height: 1.5;
-  margin: 1rem 0 1.5rem;
+  line-height: 1.55;
+  letter-spacing: 0.01em;
+  margin: 0.5rem 0 1.5rem;
+  padding: 0;
+  width: 100%;
+  position: relative;
+
+  @include media-breakpoint-up(md) {
+    font-size: 1.7rem;
+    line-height: 1.5;
+    margin-bottom: 1.8rem;
+  }
+
+  @include media-breakpoint-up(lg) {
+    font-size: 1.9rem;
+  }
+
+  &::before {
+    content: '';
+    display: block;
+    width: 3.2rem;
+    height: 4px;
+    background: $primary;
+    border-radius: 2px;
+    margin-bottom: 0.9rem;
+  }
 
   u {
     text-decoration: none;
-    background: linear-gradient(transparent 65%, lighten($primary, 55%) 65%);
-    padding: 0 0.1em;
+    background: linear-gradient(transparent 62%, lighten($primary, 55%) 62%, lighten($primary, 55%) 92%, transparent 92%);
+    padding: 0 0.08em;
+    color: $primary;
   }
 }
 
 .concept-cards {
-  display: flex;
-  flex-direction: column;
-  gap: 0.6rem;
-  margin: 1.6rem 0 1rem;
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.9rem;
+  margin: 2rem 0 1.5rem;
+  counter-reset: vision-counter;
+
+  @include media-breakpoint-up(md) {
+    grid-template-columns: 1fr 1fr;
+    gap: 1.1rem;
+  }
 }
 
 .concept-card {
-  background: $accent-soft;
-  border-left: 3px solid $primary;
-  padding: 0.85rem 1.2rem;
-  border-radius: 0 6px 6px 0;
-  font-size: 1rem;
-  line-height: 1.7;
-  color: $black;
   position: relative;
+  background: linear-gradient(180deg, $white 0%, $white 50%, lighten($accent-soft, 2%) 100%);
+  border: 1px solid $border-soft;
+  border-radius: 12px;
+  padding: 2.4rem 1.4rem 1.4rem;
+  overflow: hidden;
+  counter-increment: vision-counter;
+  font-size: 1rem;
+  line-height: 1.8;
+  color: $black;
+  font-weight: 500;
 
   &::before {
+    content: counter(vision-counter, decimal-leading-zero);
+    position: absolute;
+    top: 1rem;
+    left: 1.4rem;
+    font-family: $font-family-heading;
+    font-weight: $font-bolder-weight;
+    font-size: 0.72rem;
+    color: $primary;
+    letter-spacing: 0.18em;
+    z-index: 2;
+  }
+
+  &::after {
     content: '“';
     position: absolute;
-    left: -0.05em;
-    top: -0.7rem;
-    font-size: 2.4rem;
-    color: rgba($primary, 0.25);
-    font-family: serif;
+    right: 0.9rem;
+    top: -0.8rem;
+    font-size: 5rem;
+    color: rgba($primary, 0.13);
+    font-family: Georgia, serif;
     line-height: 1;
+    pointer-events: none;
+    z-index: 1;
+  }
+
+  @include media-breakpoint-up(md) {
+    font-size: 1.02rem;
+    padding: 2.5rem 1.5rem 1.5rem;
   }
 }
 
 .research-hook {
-  font-size: 1.25rem;
+  font-size: 1.3rem;
   font-weight: $font-bolder-weight;
   color: $primary;
   text-align: center;
-  margin: 1.2rem 0 2.5rem;
-  letter-spacing: 0.04em;
+  margin: 2.2rem 0 2.8rem;
+  letter-spacing: 0.06em;
+  position: relative;
+
+  @include media-breakpoint-up(md) {
+    font-size: 1.45rem;
+  }
+
+  &::after {
+    content: '';
+    display: block;
+    width: 3rem;
+    height: 3px;
+    background: $primary;
+    margin: 0.7rem auto 0;
+    border-radius: 2px;
+    opacity: 0.55;
+  }
 }
 
 .research-summary {

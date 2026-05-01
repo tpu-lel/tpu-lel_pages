@@ -15,11 +15,6 @@ ul.awards-list {
     border: 1px solid $border-soft;
     border-left: 3px solid $primary;
     border-radius: 6px;
-    transition: box-shadow 0.15s ease, transform 0.15s ease;
-
-    &:hover {
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.04);
-    }
 
     @include media-breakpoint-down(sm) {
       grid-template-columns: 1fr;
@@ -82,11 +77,6 @@ ul.awards-list-compact {
     @include media-breakpoint-down(sm) {
       grid-template-columns: 1fr;
       gap: 0.1rem;
-    }
-
-    &:hover {
-      box-shadow: none;
-      background: $accent-soft;
     }
   }
 
