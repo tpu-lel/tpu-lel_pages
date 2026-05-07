@@ -22,7 +22,7 @@ image_absolute: false
 ## 博士前期課程
 
 <ul class="member-grid">
-  <li><a href="https://spica-65536.github.io/my-homepage/"><span class="member-role">M2</span>内山 裕太</a></li>
+  <li><a href="/members/uchiyama/"><span class="member-role">M2</span>内山 裕太</a></li>
   <li><a href="/members/pierret/"><span class="member-role">M2</span>PIERRET ROBLES JEAN PAUL</a></li>
   <li><span class="member-role">M1</span>垣元 航</li>
   <li><span class="member-role">M1</span>勝井 拓和</li>
