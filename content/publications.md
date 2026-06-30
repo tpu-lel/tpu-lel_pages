@@ -133,6 +133,7 @@ toc: true
 1. T. Toumoto, T. Horiguchi, T. Hirashima, A. Takeuchi, “Virtual Experimental Environment to Support Learning by Designing Physics Experiment,” World Conf. Educ. Media Technol. 2006, pp. 2443-2445, (2006).
 
 ## 研究会
+1. Jean Paul Pierret Robles, 相川野々香, 古池謙人, 東本崇仁: 誤りの可視化に基づく仮説検証活動のモデル化とスキーマ形成を指向した学習支援システムの設計, 教育システム情報学会（JSiSE）2026年度春季研究会, Vol. 41, No. 1, pp. 32–39, (2026/05)
 1. 前田新太郎, 斉藤弘之, 東本崇仁: FPSゲームを対象とした瞬間判断能力の育成を指向した段階的学習手法の提案とその評価, 教育システム情報学会（JSiSE）2025年度第6回研究会, Vol. 40, No. 6, pp. 395-402, (2026/03)
 1. 中谷圭吾, 前田新太郎, 東本崇仁: 学習者の心的状態に合わせた適応的な補助問題提示機能の検討のための予備的分析, 教育システム情報学会（JSiSE）2025年度第6回研究会, Vol. 40, No. 6, pp. 314-321,(2026/03)
 1. 高野隼吾, 東本崇仁: プログラムを読む学習における誤りの可視化を用いた振り返り学習支援システムの開発・評価, 教育システム情報学会（JSiSE）2025年度第6回研究会, Vol. 40, No. 6, pp. 306-313, (2026/03)
