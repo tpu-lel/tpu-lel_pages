@@ -34,6 +34,7 @@ title: "Jean Paul Pierret Robles"
 1. Pierret Robles, J. P., Aikawa, N., Koike, K., and Tomoto, T.: A Learning Support System for Error Exploration in Physics Error-based Simulation (EBS), HCI International 2025. Lecture Notes in Computer Science, vol. 15774, pp. 272–288, Springer, (2025/05)
 
 ### 研究会
+1. Jean Paul Pierret Robles, 相川野々香, 古池謙人, 東本崇仁: 誤りの可視化に基づく仮説検証活動のモデル化とスキーマ形成を指向した学習支援システムの設計, 教育システム情報学会（JSiSE）2026年度春季研究会, Vol. 41, No. 1, pp. 32–39, (2026/05)
 1. 垣元航, Jean Paul Pierret Robles, 東本崇仁: プログラミング学習における行き詰まり検出に基づいて声掛けと適応的助言を行うシステムの開発·評価, 教育システム情報学会（JSiSE）2025年度第6回研究会, Vol. 40, No. 6, pp. 250-257, (2026/03)
 1. 垣元航，Jean Paul Pierret Robles，東本崇仁: プログラミング演習での行き詰まり検出に基づいた生成AIによる助言・能動的声掛け手法の検討, 人工知能学会第105回先進的学習科学と工学研究会, pp. 36-41, (2025/11)
 1. 中谷圭吾，Jean Paul Pierret Robles，東本崇仁: RAGを基盤とする一貫した誤り生成を行うTeachable Agentを用いた学習支援システム, 人工知能学会第105回先進的学習科学と工学研究会, pp. 19-24, (2025/11)
