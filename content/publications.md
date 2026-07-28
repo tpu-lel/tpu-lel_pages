@@ -67,6 +67,10 @@ toc: true
     - Tomoto, T., Ichi, M., Hirashima, T., and Takeuchi, A.: Interactive Environment for Learning by Problem-Posing in Multi-Digit Subtraction, Educational technology research, Vol. 31, No. 1, pp. 107–113, (2008) (Translation) (※2の英訳)
 
 ## 国際会議
+1. Pierret Robles, J. P., Aikawa, N., Koike, K., and Tomoto, T.: Hypothesis Verification Map for Supporting Active Error Exploration in Error-based Simulation, HCI International 2026. Lecture Notes in Computer Science, vol. 16706, pp. 146–157, Springer, (2026/07)
+1. Mogi, T., Yuichiro, T., Tomoto, T., and Akakura, T.: Robustness Evaluation of Automatic Problem and Feedback Generation from Student Code for Program Trace Learning Support System, HCI International 2026. Lecture Notes in Computer Science, vol. 16706, pp. 133–145, Springer, (2026/07)
+1. Maeda, S., Koike, K., and Tomoto, T.: Encouraging Higher-Quality Code Through Cost and Productivity-Based Ranking in Visual Programming, HCI International 2026. Lecture Notes in Computer Science, vol. 16706, pp. 117–132, Springer, (2026/07)
+1. Koike, K., Tomoto, T., and Akakura, T.: ELMER: A Taxonomy-Based Framework for Designing Observable Error Feedback to Support Exploratory Learning of Unobservable Concepts in STEAM Education, HCI International 2026. Lecture Notes in Computer Science, vol. 16706, pp. 80–99, Springer, (2026/07)
 1. Maeda, S., Koike, K., and Tomoto, T.: Learning from Others’ Codes in Game-Based Robot Programming: Behavioral Patterns and Outcomes, Proceedings of the International Conference on Computers in Education ICCE 2025, pp. 470–475, (2025/12)
 1. Pierret Robles, J. P., Nonoka, A., Koike, K., and Tomoto, T.: Scaffolding Causal Understanding Via Parameter Exploration in Newtonian Mechanics, Workshop Proceedings of the International Conference on Computers in Education ICCE 2025, pp. 146–155, (2025/12)
 1. Pierret Robles, J. P., Aikawa, N., Koike, K., and Tomoto, T.: A Learning Support System for Error Exploration in Physics Error-based Simulation (EBS), HCI International 2025. Lecture Notes in Computer Science, vol. 15774, pp. 272–288, Springer, (2025/05)
