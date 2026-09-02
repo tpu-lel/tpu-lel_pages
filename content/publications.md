@@ -67,6 +67,7 @@ toc: true
     - Tomoto, T., Ichi, M., Hirashima, T., and Takeuchi, A.: Interactive Environment for Learning by Problem-Posing in Multi-Digit Subtraction, Educational technology research, Vol. 31, No. 1, pp. 107–113, (2008) (Translation) (※2の英訳)
 
 ## 国際会議
+1. Koike, K., Maeda, S., Matsui, T., and Tomoto, T.: What Does the Problem Actually Ask For? Programming Exercises That Accept Diverse Correct Solutions, Workshop Proceedings of the International Conference on Computers in Education ICCE 2026, (accepted)
 1. Pierret Robles, J. P., Aikawa, N., Koike, K., and Tomoto, T.: Hypothesis Verification Map for Supporting Active Error Exploration in Error-based Simulation, HCI International 2026. Lecture Notes in Computer Science, vol. 16706, pp. 146–157, Springer, (2026/07)
 1. Mogi, T., Yuichiro, T., Tomoto, T., and Akakura, T.: Robustness Evaluation of Automatic Problem and Feedback Generation from Student Code for Program Trace Learning Support System, HCI International 2026. Lecture Notes in Computer Science, vol. 16706, pp. 133–145, Springer, (2026/07)
 1. Maeda, S., Koike, K., and Tomoto, T.: Encouraging Higher-Quality Code Through Cost and Productivity-Based Ranking in Visual Programming, HCI International 2026. Lecture Notes in Computer Science, vol. 16706, pp. 117–132, Springer, (2026/07)
