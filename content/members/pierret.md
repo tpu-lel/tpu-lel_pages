@@ -31,7 +31,7 @@ title: "Jean Paul Pierret Robles"
 
 ### 国際会議<!-- International Conference -->
 1. Pierret Robles, J. P., Aikawa, N., Koike, K., and Tomoto, T.: Hypothesis Verification Map for Supporting Active Error Exploration in Error-based Simulation, HCI International 2026. Lecture Notes in Computer Science, vol. 16706, pp. 146–157, Springer, (2026/07)
-1. Pierret Robles, J. P., Aikawa, A., Koike, K., and Tomoto, T.: Scaffolding Causal Understanding Via Parameter Exploration in Newtonian Mechanics, Workshop Proceedings of the International Conference on Computers in Education ICCE 2025, pp. 146–155, (2025/12)
+1. Pierret Robles, J. P., Aikawa, N., Koike, K., and Tomoto, T.: Scaffolding Causal Understanding Via Parameter Exploration in Newtonian Mechanics, Workshop Proceedings of the International Conference on Computers in Education ICCE 2025, pp. 146–155, (2025/12)
 1. Pierret Robles, J. P., Aikawa, N., Koike, K., and Tomoto, T.: A Learning Support System for Error Exploration in Physics Error-based Simulation (EBS), HCI International 2025. Lecture Notes in Computer Science, vol. 15774, pp. 272–288, Springer, (2025/05)
 
 ### 研究会
