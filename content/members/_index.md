@@ -47,6 +47,18 @@ image_absolute: false
   <li><span class="member-role">B4</span>藤島 秀斗</li>
   <li><span class="member-role">B4</span>結城 開地</li>
   <li><span class="member-role">B4</span>三田 基生</li>
+  <li><span class="member-role">B3</span>安倍 司秦</li>
+  <li><span class="member-role">B3</span>飯田 拓海</li>
+  <li><span class="member-role">B3</span>今井 優心</li>
+  <li><span class="member-role">B3</span>今村 藍斗</li>
+  <li><span class="member-role">B3</span>笠川 皇輝</li>
+  <li><span class="member-role">B3</span>久保 亨介</li>
+  <li><span class="member-role">B3</span>髙谷 悠斗</li>
+  <li><span class="member-role">B3</span>谷 謙太郎</li>
+  <li><span class="member-role">B3</span>武藤 光汰</li>
+  <li><span class="member-role">B3</span>山田 鈴花</li>
+  <li><span class="member-role">B3</span>吉田 奏</li>
+  <li><span class="member-role">B3</span>吉野 希歩</li>
 </ul>
 
 ## 博士課程修了生
